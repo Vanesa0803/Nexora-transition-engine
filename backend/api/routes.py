@@ -1,5 +1,6 @@
 from fastapi import APIRouter
 
+from concurrent.futures import ThreadPoolExecutor
 from agents.negotiation_agent import run_negotiation_agent
 from agents.healthcare_agent import run_healthcare_agent
 from agents.education_agent import run_education_agent
@@ -17,40 +18,48 @@ router = APIRouter()
 @router.post("/plan")
 def create_plan(request: TransitionRequest):
 
+    # Run independent agents in parallel
+    with ThreadPoolExecutor(max_workers=7) as executor:
+
+        jobs_future = executor.submit(run_job_agent, request)
+        housing_future = executor.submit(run_housing_agent, request)
+        budget_future = executor.submit(run_budget_agent, request)
+        schemes_future = executor.submit(run_government_scheme_agent, request)
+        healthcare_future = executor.submit(run_healthcare_agent, request)
+        education_future = executor.submit(run_education_agent, request)
+        cost_future = executor.submit(run_cost_of_living_agent, request)
+
+        jobs = jobs_future.result()
+        housing = housing_future.result()
+        budget = budget_future.result()
+        schemes = schemes_future.result()
+        healthcare = healthcare_future.result()
+        education = education_future.result()
+        cost_of_living = cost_future.result()
+
+    # Planning Agent now works using collected data
     planning = run_planning_agent(request)
 
-    jobs = run_job_agent(request)
-
-    housing = run_housing_agent(request)
-
-    budget = run_budget_agent(request)
-
-    schemes = run_government_scheme_agent(request)
-
-    healthcare = run_healthcare_agent(request)
-
-    planning["healthcare"] = healthcare
-
-    cost_of_living = run_cost_of_living_agent(request)
-
-    education = run_education_agent(request)
-
-    planning["education"] = education
     planning["jobs"] = jobs
     planning["housing"] = housing
     planning["budget"] = budget
     planning["governmentSchemes"] = schemes
+    planning["healthcare"] = healthcare
+    planning["education"] = education
     planning["costOfLiving"] = cost_of_living
 
+    # Final AI Recommendation
     negotiation = run_negotiation_agent(
-    planning,
-    jobs,
-    housing,
-    budget,
-    schemes,
-    cost_of_living,
-    education,
-    healthcare,)
+        planning,
+        jobs,
+        housing,
+        budget,
+        schemes,
+        cost_of_living,
+        education,
+        healthcare,
+    )
+
     planning["finalRecommendation"] = negotiation
 
     return planning

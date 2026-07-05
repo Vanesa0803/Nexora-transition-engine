@@ -2,7 +2,7 @@
 
 import LiveFeed from "@/components/mission-control/LiveFeed";
 import Sidebar from "@/components/mission-control/Sidebar";
-import MissionHero from "@/components/mission-control/MissionHero";
+import HeroSection from "@/components/mission-control/HeroSection";
 import TopStats from "@/components/mission-control/TopStats";
 import JobsPanel from "@/components/mission-control/JobsPanel";
 import HousingPanel from "@/components/mission-control/HousingPanel";
@@ -21,14 +21,7 @@ export default function MissionControlPage() {
 
         <div className="flex-1 space-y-6">
 
-          <MissionHero
-  transition={{
-    occupation: "Fashion Designer",
-    currentCity: "Kanpur",
-    destinationCity: "Bengaluru",
-    familyMembers: "None",
-  }}
-/>
+          <HeroSection />
 
           <TopStats/>
 

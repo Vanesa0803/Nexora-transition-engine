@@ -1,119 +1,53 @@
 export default function Sidebar() {
-  const agents = [
-    {
-      icon: "🧠",
-      title: "Planning Agent",
-      status: "Completed",
-      color: "text-green-400",
-    },
-    {
-      icon: "💼",
-      title: "Job Scout",
-      status: "Searching...",
-      color: "text-blue-400",
-    },
-    {
-      icon: "🏠",
-      title: "Housing Agent",
-      status: "Scanning...",
-      color: "text-orange-400",
-    },
-    {
-      icon: "🏥",
-      title: "Healthcare Agent",
-      status: "Finding hospitals",
-      color: "text-red-400",
-    },
-    {
-      icon: "🎓",
-      title: "Education Agent",
-      status: "Finding schools",
-      color: "text-purple-400",
-    },
-    {
-      icon: "💰",
-      title: "Budget Agent",
-      status: "Optimizing",
-      color: "text-green-300",
-    },
-    {
-      icon: "⚖️",
-      title: "Risk Agent",
-      status: "Completed",
-      color: "text-green-400",
-    },
+  const menu = [
+    { icon: "🏠", label: "Dashboard", active: true },
+    { icon: "🧠", label: "Mission" },
+    { icon: "💼", label: "Jobs" },
+    { icon: "🏠", label: "Housing" },
+    { icon: "🏥", label: "Healthcare" },
+    { icon: "🎓", label: "Education" },
+    { icon: "💰", label: "Budget" },
+    { icon: "⚙️", label: "Settings" },
   ];
 
   return (
-    <aside className="w-[300px] rounded-3xl border border-white/10 bg-[#0C1220] p-6">
+    <aside className="w-72 rounded-3xl border border-white/10 bg-[#0E1728] p-6">
 
-      <h1 className="text-2xl font-black text-white">
+      <h1 className="text-3xl font-extrabold tracking-wider text-cyan-400">
         NEXORA
       </h1>
 
-      <p className="mt-1 text-xs tracking-widest text-zinc-500 uppercase">
-        AI Transition Engine
+      <p className="mt-2 text-sm text-zinc-500">
+        Transition Engine
       </p>
 
-      <div className="mt-8">
+      <div className="mt-10 space-y-2">
 
-        <p className="mb-4 text-sm font-semibold text-zinc-400">
-          AI AGENTS
-        </p>
-
-        <div className="space-y-3">
-
-          {agents.map((agent) => (
-            <div
-              key={agent.title}
-              className="rounded-2xl border border-white/5 bg-[#151C2E] p-4 hover:border-cyan-400/40 transition"
-            >
-              <div className="flex items-center gap-3">
-
-                <span className="text-2xl">
-                  {agent.icon}
-                </span>
-
-                <div>
-
-                  <h3 className="font-semibold text-white">
-                    {agent.title}
-                  </h3>
-
-                  <p className={`text-sm ${agent.color}`}>
-                    {agent.status}
-                  </p>
-
-                </div>
-
-              </div>
-
-            </div>
-          ))}
-
-        </div>
+        {menu.map((item) => (
+          <button
+            key={item.label}
+            className={`flex w-full items-center gap-4 rounded-2xl px-5 py-4 transition ${
+              item.active
+                ? "bg-cyan-500 text-black font-bold"
+                : "text-zinc-400 hover:bg-zinc-800"
+            }`}
+          >
+            <span className="text-xl">{item.icon}</span>
+            {item.label}
+          </button>
+        ))}
 
       </div>
 
-      <div className="mt-8">
+      <div className="mt-14 rounded-2xl bg-cyan-500/10 p-5 border border-cyan-500/20">
 
-        <div className="flex justify-between text-sm">
+        <p className="text-xs text-zinc-400">
+          AI Status
+        </p>
 
-          <span className="text-zinc-400">
-            Overall Progress
-          </span>
-
-          <span className="text-cyan-400">
-            72%
-          </span>
-
-        </div>
-
-        <div className="mt-3 h-3 rounded-full bg-zinc-800">
-
-          <div className="h-3 w-[72%] rounded-full bg-gradient-to-r from-cyan-500 to-blue-500" />
-
-        </div>
+        <h2 className="mt-2 text-xl font-bold text-cyan-400">
+          8 Agents Active
+        </h2>
 
       </div>
 

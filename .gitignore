@@ -1,0 +1,48 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Python virtual env
+.venv/
+venv/
+backend/.venv/
+
+# Environment variables
+.env
+.env.*
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# ======================
+# Node
+# ======================
+node_modules/
+**/node_modules/
+
+# Next.js
+.next/
+out/
+
+# Build
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+
+# Turbo
+.turbo/

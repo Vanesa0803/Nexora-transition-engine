@@ -1,0 +1,571 @@
+{
+  "search_metadata": {
+    "id": "6a48a9920676dc0f4b341de5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/n499ZHn9nF1bvGSgHaufRA/6a48a9920676dc0f4b341de5.json",
+    "created_at": "2026-07-04 06:34:58 UTC",
+    "processed_at": "2026-07-04 06:34:58 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Construction+Worker+Bangalore&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/n499ZHn9nF1bvGSgHaufRA/6a48a9920676dc0f4b341de5.html",
+    "total_time_taken": 20.48
+  },
+  "search_parameters": {
+    "q": "Construction Worker Bangalore",
+    "engine": "google_jobs",
+    "google_domain": "google.com"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_DUPACOaQunuBnQt_6Ak5N87m3rCtI0VTnnL6AW1iiTEudJJO1ZV5OIC1rWD_yerJTfd5KX5WjVjQesBjj2YXtzBUtPwZB3NUI2rUioUBJhjcg4cc1Dap_3TdVB7v24NUM-pUoE",
+        "q": "Construction Worker Bangalore remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_DUPACOaQunuBnQt_6Ak5N87m3rCtI0VTnnL6AW1iiTEudJJO1ZV5OIC1rWD_yerJTfd5KX5WjVjQesBjj2YXtzBUtPwZB3NUI2rUioUBJhjcg4cc1Dap_3TdVB7v24NUM-pUoE&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQxKsJKAB6BAgTEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_DUPACOaQunuBnQt_6Ak5N87m3rCtI0VTnnL6AW1iiTEudJJO1ZV5OIC1rWD_yerJTfd5KX5WjVjQesBjj2YXtzBUtPwZB3NUI2rUioUBJhjcg4cc1Dap_3TdVB7v24NUM-pUoE"
+    },
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHlcD8FLtMwo1T10KpL1XB7026NMcJ7ZEU0AgBvsXrs7bpKx9Qlxsnf9QN2l4FL2lS-1HXmR6yEyz3tr_u2t7nDTlnWujlTfGYpLN7oAdlk889dehoS-rJB1pIMOhWQc_mR1G7mw1FyynVVBUIh44Z_duQTLhHCq2WFSyjp2h4wTua9pm",
+        "q": "Construction Worker Bangalore no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+no+degree&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHlcD8FLtMwo1T10KpL1XB7026NMcJ7ZEU0AgBvsXrs7bpKx9Qlxsnf9QN2l4FL2lS-1HXmR6yEyz3tr_u2t7nDTlnWujlTfGYpLN7oAdlk889dehoS-rJB1pIMOhWQc_mR1G7mw1FyynVVBUIh44Z_duQTLhHCq2WFSyjp2h4wTua9pm&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQxKsJKAF6BAgWEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+no+degree&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHlcD8FLtMwo1T10KpL1XB7026NMcJ7ZEU0AgBvsXrs7bpKx9Qlxsnf9QN2l4FL2lS-1HXmR6yEyz3tr_u2t7nDTlnWujlTfGYpLN7oAdlk889dehoS-rJB1pIMOhWQc_mR1G7mw1FyynVVBUIh44Z_duQTLhHCq2WFSyjp2h4wTua9pm"
+    },
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_DUPACOaQunuBnQt_6Ak5N87m3rCtI0VTnnL6AW1iiTEudJJO1ZV5OIC1rWD_yerJTfd5KX5WjVjQesBjj2YXtzBUtPwZB3NUI2rUioUBJhjcg4cc1Dap_3TdVB7v24NUM-pUoE",
+        "q": "Construction Worker Bangalore remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_DUPACOaQunuBnQt_6Ak5N87m3rCtI0VTnnL6AW1iiTEudJJO1ZV5OIC1rWD_yerJTfd5KX5WjVjQesBjj2YXtzBUtPwZB3NUI2rUioUBJhjcg4cc1Dap_3TdVB7v24NUM-pUoE&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQxKsJKAJ6BAgUEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_DUPACOaQunuBnQt_6Ak5N87m3rCtI0VTnnL6AW1iiTEudJJO1ZV5OIC1rWD_yerJTfd5KX5WjVjQesBjj2YXtzBUtPwZB3NUI2rUioUBJhjcg4cc1Dap_3TdVB7v24NUM-pUoE"
+    },
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHlcD8FLtMwo1T10KpL1XB7026NMcJ7ZEU0AgBvsXrs7bpKx9Qlxsnf9QN2l4FL2lS-1HXmR6yEyz3tr_u2t7nDTlnWujlTfGYpLN7oAdlk889dehoS-rJB1pIMOhWQc_mR1G7mw1FyynVVBUIh44Z_duQTLhHCq2WFSyjp2h4wTua9pm",
+        "q": "Construction Worker Bangalore no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+no+degree&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHlcD8FLtMwo1T10KpL1XB7026NMcJ7ZEU0AgBvsXrs7bpKx9Qlxsnf9QN2l4FL2lS-1HXmR6yEyz3tr_u2t7nDTlnWujlTfGYpLN7oAdlk889dehoS-rJB1pIMOhWQc_mR1G7mw1FyynVVBUIh44Z_duQTLhHCq2WFSyjp2h4wTua9pm&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQxKsJKAN6BAgVEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+no+degree&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHlcD8FLtMwo1T10KpL1XB7026NMcJ7ZEU0AgBvsXrs7bpKx9Qlxsnf9QN2l4FL2lS-1HXmR6yEyz3tr_u2t7nDTlnWujlTfGYpLN7oAdlk889dehoS-rJB1pIMOhWQc_mR1G7mw1FyynVVBUIh44Z_duQTLhHCq2WFSyjp2h4wTua9pm"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r66Z2UA7Hq2NwS3KxKgSpIvzzPsduDc7GrcyT0NjcorqpJAaTXIL0qBdPBkbHW1TdtieWMtwUtRS8TikeloD1lBc0oxAUFKSzZCmDRnGkDz-FHSD57RsXHGZKx_6qyaPf8yEKEmHM7k9OMFT9tO1933N8pelLR-o9-CzLB2z5V3uEP0KTiBZ_UHbTfkFVUe2kgi-kldRjFd2NBCra-f2d164fy6CQ-KrAAJ8aaVEEFj2hZIwpNHIzCng4b5BI6K1m6OVii_PLNC1xCaiYfapxFdpgUw4loOL63Hn3gpfoycpyGPbyrVJLcnLTFC5u9HQXIwKIrUS3Yz7GVqp9GTc-phSzTus",
+            "q": "Construction Worker Bangalore since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r66Z2UA7Hq2NwS3KxKgSpIvzzPsduDc7GrcyT0NjcorqpJAaTXIL0qBdPBkbHW1TdtieWMtwUtRS8TikeloD1lBc0oxAUFKSzZCmDRnGkDz-FHSD57RsXHGZKx_6qyaPf8yEKEmHM7k9OMFT9tO1933N8pelLR-o9-CzLB2z5V3uEP0KTiBZ_UHbTfkFVUe2kgi-kldRjFd2NBCra-f2d164fy6CQ-KrAAJ8aaVEEFj2hZIwpNHIzCng4b5BI6K1m6OVii_PLNC1xCaiYfapxFdpgUw4loOL63Hn3gpfoycpyGPbyrVJLcnLTFC5u9HQXIwKIrUS3Yz7GVqp9GTc-phSzTus&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQIFxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r66Z2UA7Hq2NwS3KxKgSpIvzzPsduDc7GrcyT0NjcorqpJAaTXIL0qBdPBkbHW1TdtieWMtwUtRS8TikeloD1lBc0oxAUFKSzZCmDRnGkDz-FHSD57RsXHGZKx_6qyaPf8yEKEmHM7k9OMFT9tO1933N8pelLR-o9-CzLB2z5V3uEP0KTiBZ_UHbTfkFVUe2kgi-kldRjFd2NBCra-f2d164fy6CQ-KrAAJ8aaVEEFj2hZIwpNHIzCng4b5BI6K1m6OVii_PLNC1xCaiYfapxFdpgUw4loOL63Hn3gpfoycpyGPbyrVJLcnLTFC5u9HQXIwKIrUS3Yz7GVqp9GTc-phSzTus"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rTGFjtmTP_iRVRK1BxM_muSiwmaRBMOFv3sy9TLaEXR_WI7O-IYLXqhMBFrDgpos_3oX99466C5W6jxOXq-N_2jvKLnUk0Lo8ly9hi8hJ6KEZV1uHkb4P8zlbEQjGe2EtWkzNwMbrk_dCOetRVA9MGygtGIecVto1Xl9dNIhvJ1crhA1NH5U3Il1MJCGotCsj2RKLuloEO4PS_GmO68MOzT2bzEBqqu98FNhQXW0GhdMBtzQIguGEGqU7exXl26yeHZQbMeDPUy7jMy8XQ48f27aq80sSxbX0eJiV9A4ahkIxYdDin3Te3CNL_zoDfXle75dCWPmC2by_QXv7p5hZqaoO1uQ",
+            "q": "Construction Worker Bangalore in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTGFjtmTP_iRVRK1BxM_muSiwmaRBMOFv3sy9TLaEXR_WI7O-IYLXqhMBFrDgpos_3oX99466C5W6jxOXq-N_2jvKLnUk0Lo8ly9hi8hJ6KEZV1uHkb4P8zlbEQjGe2EtWkzNwMbrk_dCOetRVA9MGygtGIecVto1Xl9dNIhvJ1crhA1NH5U3Il1MJCGotCsj2RKLuloEO4PS_GmO68MOzT2bzEBqqu98FNhQXW0GhdMBtzQIguGEGqU7exXl26yeHZQbMeDPUy7jMy8XQ48f27aq80sSxbX0eJiV9A4ahkIxYdDin3Te3CNL_zoDfXle75dCWPmC2by_QXv7p5hZqaoO1uQ&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQIFxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTGFjtmTP_iRVRK1BxM_muSiwmaRBMOFv3sy9TLaEXR_WI7O-IYLXqhMBFrDgpos_3oX99466C5W6jxOXq-N_2jvKLnUk0Lo8ly9hi8hJ6KEZV1uHkb4P8zlbEQjGe2EtWkzNwMbrk_dCOetRVA9MGygtGIecVto1Xl9dNIhvJ1crhA1NH5U3Il1MJCGotCsj2RKLuloEO4PS_GmO68MOzT2bzEBqqu98FNhQXW0GhdMBtzQIguGEGqU7exXl26yeHZQbMeDPUy7jMy8XQ48f27aq80sSxbX0eJiV9A4ahkIxYdDin3Te3CNL_zoDfXle75dCWPmC2by_QXv7p5hZqaoO1uQ"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rJ7C_oDwvFglOqm_ceaPuiajtvVk1bPz4kUtRHiH_nk6ykex1nkEMRjgCEodafQV9E4nIstRNEf4x5EJV6FbJdi5Pw_mqIZmVGllhpQ7ZAM9p9zvAOo56EhltH52QfttwJIEfl6m6AQ2Bur9VMjB-LY8riv8SmfC2-K8Lawj73ppKok318x7xc_sk7aM8HA5jbJZ5KaQa0-3-GYlM0RjK1S3Kg0XVpoPlDTyMdOvd5xzty-3ZnuV_RDH-4Tnfpgu7MLfLMhXxRbQIbo-yQYP7HaCEJe3XuFFc-Qdei1CTPqBhZmRhly14Jo1UiBr5xYttVO8057xJHpA_yMbbjBuOZJ6dvo0",
+            "q": "Construction Worker Bangalore in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJ7C_oDwvFglOqm_ceaPuiajtvVk1bPz4kUtRHiH_nk6ykex1nkEMRjgCEodafQV9E4nIstRNEf4x5EJV6FbJdi5Pw_mqIZmVGllhpQ7ZAM9p9zvAOo56EhltH52QfttwJIEfl6m6AQ2Bur9VMjB-LY8riv8SmfC2-K8Lawj73ppKok318x7xc_sk7aM8HA5jbJZ5KaQa0-3-GYlM0RjK1S3Kg0XVpoPlDTyMdOvd5xzty-3ZnuV_RDH-4Tnfpgu7MLfLMhXxRbQIbo-yQYP7HaCEJe3XuFFc-Qdei1CTPqBhZmRhly14Jo1UiBr5xYttVO8057xJHpA_yMbbjBuOZJ6dvo0&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQIFxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJ7C_oDwvFglOqm_ceaPuiajtvVk1bPz4kUtRHiH_nk6ykex1nkEMRjgCEodafQV9E4nIstRNEf4x5EJV6FbJdi5Pw_mqIZmVGllhpQ7ZAM9p9zvAOo56EhltH52QfttwJIEfl6m6AQ2Bur9VMjB-LY8riv8SmfC2-K8Lawj73ppKok318x7xc_sk7aM8HA5jbJZ5KaQa0-3-GYlM0RjK1S3Kg0XVpoPlDTyMdOvd5xzty-3ZnuV_RDH-4Tnfpgu7MLfLMhXxRbQIbo-yQYP7HaCEJe3XuFFc-Qdei1CTPqBhZmRhly14Jo1UiBr5xYttVO8057xJHpA_yMbbjBuOZJ6dvo0"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rm96lwH7_D8FvvwTy0WTXuyqf8Dl96Fhs4lOTdAUKYUb69dIs4zewW-h5_50rZUvjys2KXqIFvFjPK9DByiRqVX21B1gjcdQThPlykJ0l-6G22XoSSj6ip9v5SJwJomj9awIKJpM7KHf378-9fI9OJ5vfVvs34YVeizGbzpsVCbszRDZZNNC_MAI1-OoL-pMU4lmpgJGQI-jBtSjAAyBc-0Krzj6tGvvEmDGPEZo6tNlC2a536C5re5qrsA7ixa5aP9T4dHqdB_ueEdgub5D6Io1S6BAPkos6CljNX-ohK3zI4UGiRXeFjEllu3rIdcAYCgB9NxEU75kddis8wDIFEXMk8C8",
+            "q": "Construction Worker Bangalore in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm96lwH7_D8FvvwTy0WTXuyqf8Dl96Fhs4lOTdAUKYUb69dIs4zewW-h5_50rZUvjys2KXqIFvFjPK9DByiRqVX21B1gjcdQThPlykJ0l-6G22XoSSj6ip9v5SJwJomj9awIKJpM7KHf378-9fI9OJ5vfVvs34YVeizGbzpsVCbszRDZZNNC_MAI1-OoL-pMU4lmpgJGQI-jBtSjAAyBc-0Krzj6tGvvEmDGPEZo6tNlC2a536C5re5qrsA7ixa5aP9T4dHqdB_ueEdgub5D6Io1S6BAPkos6CljNX-ohK3zI4UGiRXeFjEllu3rIdcAYCgB9NxEU75kddis8wDIFEXMk8C8&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQIFxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm96lwH7_D8FvvwTy0WTXuyqf8Dl96Fhs4lOTdAUKYUb69dIs4zewW-h5_50rZUvjys2KXqIFvFjPK9DByiRqVX21B1gjcdQThPlykJ0l-6G22XoSSj6ip9v5SJwJomj9awIKJpM7KHf378-9fI9OJ5vfVvs34YVeizGbzpsVCbszRDZZNNC_MAI1-OoL-pMU4lmpgJGQI-jBtSjAAyBc-0Krzj6tGvvEmDGPEZo6tNlC2a536C5re5qrsA7ixa5aP9T4dHqdB_ueEdgub5D6Io1S6BAPkos6CljNX-ohK3zI4UGiRXeFjEllu3rIdcAYCgB9NxEU75kddis8wDIFEXMk8C8"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r66Z2UA7Hq2NwS3KxKgSpIvzzPsduDc7GrcyT0NjcorqpJAaTXIL0qBdPBkbHW1TdtieWMtwUtRS8TikeloD1lBc0oxAUFKSzZCmDRnGkDz-FHSD57RsXHGZKx_6qyaPf8yEKEmHM7k9OMFT9tO1933N8pelLR-o9-CzLB2z5V3uEP0KTiBZ_UHbTfkFVUe2kgi-kldRjFd2NBCra-f2d164fy6CQ-KrAAJ8aaVEEFj2hZIwpNHIzCng4b5BI6K1m6OVii_PLNC1xCaiYfapxFdpgUw4loOL63Hn3gpfoycpyGPbyrVJLcnLTFC5u9HQXIwKIrUS3Yz7GVqp9GTc-phSzTus",
+            "q": "Construction Worker Bangalore since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r66Z2UA7Hq2NwS3KxKgSpIvzzPsduDc7GrcyT0NjcorqpJAaTXIL0qBdPBkbHW1TdtieWMtwUtRS8TikeloD1lBc0oxAUFKSzZCmDRnGkDz-FHSD57RsXHGZKx_6qyaPf8yEKEmHM7k9OMFT9tO1933N8pelLR-o9-CzLB2z5V3uEP0KTiBZ_UHbTfkFVUe2kgi-kldRjFd2NBCra-f2d164fy6CQ-KrAAJ8aaVEEFj2hZIwpNHIzCng4b5BI6K1m6OVii_PLNC1xCaiYfapxFdpgUw4loOL63Hn3gpfoycpyGPbyrVJLcnLTFC5u9HQXIwKIrUS3Yz7GVqp9GTc-phSzTus&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQIFxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r66Z2UA7Hq2NwS3KxKgSpIvzzPsduDc7GrcyT0NjcorqpJAaTXIL0qBdPBkbHW1TdtieWMtwUtRS8TikeloD1lBc0oxAUFKSzZCmDRnGkDz-FHSD57RsXHGZKx_6qyaPf8yEKEmHM7k9OMFT9tO1933N8pelLR-o9-CzLB2z5V3uEP0KTiBZ_UHbTfkFVUe2kgi-kldRjFd2NBCra-f2d164fy6CQ-KrAAJ8aaVEEFj2hZIwpNHIzCng4b5BI6K1m6OVii_PLNC1xCaiYfapxFdpgUw4loOL63Hn3gpfoycpyGPbyrVJLcnLTFC5u9HQXIwKIrUS3Yz7GVqp9GTc-phSzTus"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rTGFjtmTP_iRVRK1BxM_muSiwmaRBMOFv3sy9TLaEXR_WI7O-IYLXqhMBFrDgpos_3oX99466C5W6jxOXq-N_2jvKLnUk0Lo8ly9hi8hJ6KEZV1uHkb4P8zlbEQjGe2EtWkzNwMbrk_dCOetRVA9MGygtGIecVto1Xl9dNIhvJ1crhA1NH5U3Il1MJCGotCsj2RKLuloEO4PS_GmO68MOzT2bzEBqqu98FNhQXW0GhdMBtzQIguGEGqU7exXl26yeHZQbMeDPUy7jMy8XQ48f27aq80sSxbX0eJiV9A4ahkIxYdDin3Te3CNL_zoDfXle75dCWPmC2by_QXv7p5hZqaoO1uQ",
+            "q": "Construction Worker Bangalore in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTGFjtmTP_iRVRK1BxM_muSiwmaRBMOFv3sy9TLaEXR_WI7O-IYLXqhMBFrDgpos_3oX99466C5W6jxOXq-N_2jvKLnUk0Lo8ly9hi8hJ6KEZV1uHkb4P8zlbEQjGe2EtWkzNwMbrk_dCOetRVA9MGygtGIecVto1Xl9dNIhvJ1crhA1NH5U3Il1MJCGotCsj2RKLuloEO4PS_GmO68MOzT2bzEBqqu98FNhQXW0GhdMBtzQIguGEGqU7exXl26yeHZQbMeDPUy7jMy8XQ48f27aq80sSxbX0eJiV9A4ahkIxYdDin3Te3CNL_zoDfXle75dCWPmC2by_QXv7p5hZqaoO1uQ&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQIFxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTGFjtmTP_iRVRK1BxM_muSiwmaRBMOFv3sy9TLaEXR_WI7O-IYLXqhMBFrDgpos_3oX99466C5W6jxOXq-N_2jvKLnUk0Lo8ly9hi8hJ6KEZV1uHkb4P8zlbEQjGe2EtWkzNwMbrk_dCOetRVA9MGygtGIecVto1Xl9dNIhvJ1crhA1NH5U3Il1MJCGotCsj2RKLuloEO4PS_GmO68MOzT2bzEBqqu98FNhQXW0GhdMBtzQIguGEGqU7exXl26yeHZQbMeDPUy7jMy8XQ48f27aq80sSxbX0eJiV9A4ahkIxYdDin3Te3CNL_zoDfXle75dCWPmC2by_QXv7p5hZqaoO1uQ"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rJ7C_oDwvFglOqm_ceaPuiajtvVk1bPz4kUtRHiH_nk6ykex1nkEMRjgCEodafQV9E4nIstRNEf4x5EJV6FbJdi5Pw_mqIZmVGllhpQ7ZAM9p9zvAOo56EhltH52QfttwJIEfl6m6AQ2Bur9VMjB-LY8riv8SmfC2-K8Lawj73ppKok318x7xc_sk7aM8HA5jbJZ5KaQa0-3-GYlM0RjK1S3Kg0XVpoPlDTyMdOvd5xzty-3ZnuV_RDH-4Tnfpgu7MLfLMhXxRbQIbo-yQYP7HaCEJe3XuFFc-Qdei1CTPqBhZmRhly14Jo1UiBr5xYttVO8057xJHpA_yMbbjBuOZJ6dvo0",
+            "q": "Construction Worker Bangalore in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJ7C_oDwvFglOqm_ceaPuiajtvVk1bPz4kUtRHiH_nk6ykex1nkEMRjgCEodafQV9E4nIstRNEf4x5EJV6FbJdi5Pw_mqIZmVGllhpQ7ZAM9p9zvAOo56EhltH52QfttwJIEfl6m6AQ2Bur9VMjB-LY8riv8SmfC2-K8Lawj73ppKok318x7xc_sk7aM8HA5jbJZ5KaQa0-3-GYlM0RjK1S3Kg0XVpoPlDTyMdOvd5xzty-3ZnuV_RDH-4Tnfpgu7MLfLMhXxRbQIbo-yQYP7HaCEJe3XuFFc-Qdei1CTPqBhZmRhly14Jo1UiBr5xYttVO8057xJHpA_yMbbjBuOZJ6dvo0&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQIFxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJ7C_oDwvFglOqm_ceaPuiajtvVk1bPz4kUtRHiH_nk6ykex1nkEMRjgCEodafQV9E4nIstRNEf4x5EJV6FbJdi5Pw_mqIZmVGllhpQ7ZAM9p9zvAOo56EhltH52QfttwJIEfl6m6AQ2Bur9VMjB-LY8riv8SmfC2-K8Lawj73ppKok318x7xc_sk7aM8HA5jbJZ5KaQa0-3-GYlM0RjK1S3Kg0XVpoPlDTyMdOvd5xzty-3ZnuV_RDH-4Tnfpgu7MLfLMhXxRbQIbo-yQYP7HaCEJe3XuFFc-Qdei1CTPqBhZmRhly14Jo1UiBr5xYttVO8057xJHpA_yMbbjBuOZJ6dvo0"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rm96lwH7_D8FvvwTy0WTXuyqf8Dl96Fhs4lOTdAUKYUb69dIs4zewW-h5_50rZUvjys2KXqIFvFjPK9DByiRqVX21B1gjcdQThPlykJ0l-6G22XoSSj6ip9v5SJwJomj9awIKJpM7KHf378-9fI9OJ5vfVvs34YVeizGbzpsVCbszRDZZNNC_MAI1-OoL-pMU4lmpgJGQI-jBtSjAAyBc-0Krzj6tGvvEmDGPEZo6tNlC2a536C5re5qrsA7ixa5aP9T4dHqdB_ueEdgub5D6Io1S6BAPkos6CljNX-ohK3zI4UGiRXeFjEllu3rIdcAYCgB9NxEU75kddis8wDIFEXMk8C8",
+            "q": "Construction Worker Bangalore in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm96lwH7_D8FvvwTy0WTXuyqf8Dl96Fhs4lOTdAUKYUb69dIs4zewW-h5_50rZUvjys2KXqIFvFjPK9DByiRqVX21B1gjcdQThPlykJ0l-6G22XoSSj6ip9v5SJwJomj9awIKJpM7KHf378-9fI9OJ5vfVvs34YVeizGbzpsVCbszRDZZNNC_MAI1-OoL-pMU4lmpgJGQI-jBtSjAAyBc-0Krzj6tGvvEmDGPEZo6tNlC2a536C5re5qrsA7ixa5aP9T4dHqdB_ueEdgub5D6Io1S6BAPkos6CljNX-ohK3zI4UGiRXeFjEllu3rIdcAYCgB9NxEU75kddis8wDIFEXMk8C8&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQIFxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm96lwH7_D8FvvwTy0WTXuyqf8Dl96Fhs4lOTdAUKYUb69dIs4zewW-h5_50rZUvjys2KXqIFvFjPK9DByiRqVX21B1gjcdQThPlykJ0l-6G22XoSSj6ip9v5SJwJomj9awIKJpM7KHf378-9fI9OJ5vfVvs34YVeizGbzpsVCbszRDZZNNC_MAI1-OoL-pMU4lmpgJGQI-jBtSjAAyBc-0Krzj6tGvvEmDGPEZo6tNlC2a536C5re5qrsA7ixa5aP9T4dHqdB_ueEdgub5D6Io1S6BAPkos6CljNX-ohK3zI4UGiRXeFjEllu3rIdcAYCgB9NxEU75kddis8wDIFEXMk8C8"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r66Z2UA7Hq2NwS3KxKgSpIvzzPsduDc7GrcyT0NjcorqpJAaTXIL0qBdPBkbHW1TdtieWMtwUtRS8TikeloD1lBc0oxAUFKSzZCmDRnGkDz-FHSD57RsXHGZKx_6qyaPf8yEKEmHM7k9OMFT9tO1933N8pelLR-o9-CzLB2z5V3uEP0KTiBZ_UHbTfkFVUe2kgi-kldRjFd2NBCra-f2d164fy6CQ-KrAAJ8aaVEEFj2hZIwpNHIzCng4b5BI6K1m6OVii_PLNC1xCaiYfapxFdpgUw4loOL63Hn3gpfoycpyGPbyrVJLcnLTFC5u9HQXIwKIrUS3Yz7GVqp9GTc-phSzTus",
+            "q": "Construction Worker Bangalore since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r66Z2UA7Hq2NwS3KxKgSpIvzzPsduDc7GrcyT0NjcorqpJAaTXIL0qBdPBkbHW1TdtieWMtwUtRS8TikeloD1lBc0oxAUFKSzZCmDRnGkDz-FHSD57RsXHGZKx_6qyaPf8yEKEmHM7k9OMFT9tO1933N8pelLR-o9-CzLB2z5V3uEP0KTiBZ_UHbTfkFVUe2kgi-kldRjFd2NBCra-f2d164fy6CQ-KrAAJ8aaVEEFj2hZIwpNHIzCng4b5BI6K1m6OVii_PLNC1xCaiYfapxFdpgUw4loOL63Hn3gpfoycpyGPbyrVJLcnLTFC5u9HQXIwKIrUS3Yz7GVqp9GTc-phSzTus&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQILxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r66Z2UA7Hq2NwS3KxKgSpIvzzPsduDc7GrcyT0NjcorqpJAaTXIL0qBdPBkbHW1TdtieWMtwUtRS8TikeloD1lBc0oxAUFKSzZCmDRnGkDz-FHSD57RsXHGZKx_6qyaPf8yEKEmHM7k9OMFT9tO1933N8pelLR-o9-CzLB2z5V3uEP0KTiBZ_UHbTfkFVUe2kgi-kldRjFd2NBCra-f2d164fy6CQ-KrAAJ8aaVEEFj2hZIwpNHIzCng4b5BI6K1m6OVii_PLNC1xCaiYfapxFdpgUw4loOL63Hn3gpfoycpyGPbyrVJLcnLTFC5u9HQXIwKIrUS3Yz7GVqp9GTc-phSzTus"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rTGFjtmTP_iRVRK1BxM_muSiwmaRBMOFv3sy9TLaEXR_WI7O-IYLXqhMBFrDgpos_3oX99466C5W6jxOXq-N_2jvKLnUk0Lo8ly9hi8hJ6KEZV1uHkb4P8zlbEQjGe2EtWkzNwMbrk_dCOetRVA9MGygtGIecVto1Xl9dNIhvJ1crhA1NH5U3Il1MJCGotCsj2RKLuloEO4PS_GmO68MOzT2bzEBqqu98FNhQXW0GhdMBtzQIguGEGqU7exXl26yeHZQbMeDPUy7jMy8XQ48f27aq80sSxbX0eJiV9A4ahkIxYdDin3Te3CNL_zoDfXle75dCWPmC2by_QXv7p5hZqaoO1uQ",
+            "q": "Construction Worker Bangalore in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTGFjtmTP_iRVRK1BxM_muSiwmaRBMOFv3sy9TLaEXR_WI7O-IYLXqhMBFrDgpos_3oX99466C5W6jxOXq-N_2jvKLnUk0Lo8ly9hi8hJ6KEZV1uHkb4P8zlbEQjGe2EtWkzNwMbrk_dCOetRVA9MGygtGIecVto1Xl9dNIhvJ1crhA1NH5U3Il1MJCGotCsj2RKLuloEO4PS_GmO68MOzT2bzEBqqu98FNhQXW0GhdMBtzQIguGEGqU7exXl26yeHZQbMeDPUy7jMy8XQ48f27aq80sSxbX0eJiV9A4ahkIxYdDin3Te3CNL_zoDfXle75dCWPmC2by_QXv7p5hZqaoO1uQ&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQILxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTGFjtmTP_iRVRK1BxM_muSiwmaRBMOFv3sy9TLaEXR_WI7O-IYLXqhMBFrDgpos_3oX99466C5W6jxOXq-N_2jvKLnUk0Lo8ly9hi8hJ6KEZV1uHkb4P8zlbEQjGe2EtWkzNwMbrk_dCOetRVA9MGygtGIecVto1Xl9dNIhvJ1crhA1NH5U3Il1MJCGotCsj2RKLuloEO4PS_GmO68MOzT2bzEBqqu98FNhQXW0GhdMBtzQIguGEGqU7exXl26yeHZQbMeDPUy7jMy8XQ48f27aq80sSxbX0eJiV9A4ahkIxYdDin3Te3CNL_zoDfXle75dCWPmC2by_QXv7p5hZqaoO1uQ"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rJ7C_oDwvFglOqm_ceaPuiajtvVk1bPz4kUtRHiH_nk6ykex1nkEMRjgCEodafQV9E4nIstRNEf4x5EJV6FbJdi5Pw_mqIZmVGllhpQ7ZAM9p9zvAOo56EhltH52QfttwJIEfl6m6AQ2Bur9VMjB-LY8riv8SmfC2-K8Lawj73ppKok318x7xc_sk7aM8HA5jbJZ5KaQa0-3-GYlM0RjK1S3Kg0XVpoPlDTyMdOvd5xzty-3ZnuV_RDH-4Tnfpgu7MLfLMhXxRbQIbo-yQYP7HaCEJe3XuFFc-Qdei1CTPqBhZmRhly14Jo1UiBr5xYttVO8057xJHpA_yMbbjBuOZJ6dvo0",
+            "q": "Construction Worker Bangalore in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJ7C_oDwvFglOqm_ceaPuiajtvVk1bPz4kUtRHiH_nk6ykex1nkEMRjgCEodafQV9E4nIstRNEf4x5EJV6FbJdi5Pw_mqIZmVGllhpQ7ZAM9p9zvAOo56EhltH52QfttwJIEfl6m6AQ2Bur9VMjB-LY8riv8SmfC2-K8Lawj73ppKok318x7xc_sk7aM8HA5jbJZ5KaQa0-3-GYlM0RjK1S3Kg0XVpoPlDTyMdOvd5xzty-3ZnuV_RDH-4Tnfpgu7MLfLMhXxRbQIbo-yQYP7HaCEJe3XuFFc-Qdei1CTPqBhZmRhly14Jo1UiBr5xYttVO8057xJHpA_yMbbjBuOZJ6dvo0&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQILxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJ7C_oDwvFglOqm_ceaPuiajtvVk1bPz4kUtRHiH_nk6ykex1nkEMRjgCEodafQV9E4nIstRNEf4x5EJV6FbJdi5Pw_mqIZmVGllhpQ7ZAM9p9zvAOo56EhltH52QfttwJIEfl6m6AQ2Bur9VMjB-LY8riv8SmfC2-K8Lawj73ppKok318x7xc_sk7aM8HA5jbJZ5KaQa0-3-GYlM0RjK1S3Kg0XVpoPlDTyMdOvd5xzty-3ZnuV_RDH-4Tnfpgu7MLfLMhXxRbQIbo-yQYP7HaCEJe3XuFFc-Qdei1CTPqBhZmRhly14Jo1UiBr5xYttVO8057xJHpA_yMbbjBuOZJ6dvo0"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rm96lwH7_D8FvvwTy0WTXuyqf8Dl96Fhs4lOTdAUKYUb69dIs4zewW-h5_50rZUvjys2KXqIFvFjPK9DByiRqVX21B1gjcdQThPlykJ0l-6G22XoSSj6ip9v5SJwJomj9awIKJpM7KHf378-9fI9OJ5vfVvs34YVeizGbzpsVCbszRDZZNNC_MAI1-OoL-pMU4lmpgJGQI-jBtSjAAyBc-0Krzj6tGvvEmDGPEZo6tNlC2a536C5re5qrsA7ixa5aP9T4dHqdB_ueEdgub5D6Io1S6BAPkos6CljNX-ohK3zI4UGiRXeFjEllu3rIdcAYCgB9NxEU75kddis8wDIFEXMk8C8",
+            "q": "Construction Worker Bangalore in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm96lwH7_D8FvvwTy0WTXuyqf8Dl96Fhs4lOTdAUKYUb69dIs4zewW-h5_50rZUvjys2KXqIFvFjPK9DByiRqVX21B1gjcdQThPlykJ0l-6G22XoSSj6ip9v5SJwJomj9awIKJpM7KHf378-9fI9OJ5vfVvs34YVeizGbzpsVCbszRDZZNNC_MAI1-OoL-pMU4lmpgJGQI-jBtSjAAyBc-0Krzj6tGvvEmDGPEZo6tNlC2a536C5re5qrsA7ixa5aP9T4dHqdB_ueEdgub5D6Io1S6BAPkos6CljNX-ohK3zI4UGiRXeFjEllu3rIdcAYCgB9NxEU75kddis8wDIFEXMk8C8&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQILxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm96lwH7_D8FvvwTy0WTXuyqf8Dl96Fhs4lOTdAUKYUb69dIs4zewW-h5_50rZUvjys2KXqIFvFjPK9DByiRqVX21B1gjcdQThPlykJ0l-6G22XoSSj6ip9v5SJwJomj9awIKJpM7KHf378-9fI9OJ5vfVvs34YVeizGbzpsVCbszRDZZNNC_MAI1-OoL-pMU4lmpgJGQI-jBtSjAAyBc-0Krzj6tGvvEmDGPEZo6tNlC2a536C5re5qrsA7ixa5aP9T4dHqdB_ueEdgub5D6Io1S6BAPkos6CljNX-ohK3zI4UGiRXeFjEllu3rIdcAYCgB9NxEU75kddis8wDIFEXMk8C8"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiKcOEwnGt6Zbsb6COOyPCK0IMzHZtgXzQKxKFevNakMIzHGDWnZFR9tmFcfQy2k9sWm9B9oPCn1e84hkKXlrfA-n_b3c1IRjtE7aPIkNtaLBaB4sUQ4ducdCEJ0mjzqJSa9bnfB4aKEeNom7QZIaFg1E5JYV8CMiv_6ND2F_IDyLdzhH7d9Dwbb2xWZXpjWPKWsrWBoRY5nOYwp4OvUL6pnL9WXgVLotNzQKIcUzRcSj83vQ0wA-mrP31bk7P1Cd97CENrvoA7LxA8Sy7YyRURLh_J6HwW4D0Ll1q8NeTpz0YBhqhQ",
+            "q": "Construction Worker Bangalore full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiKcOEwnGt6Zbsb6COOyPCK0IMzHZtgXzQKxKFevNakMIzHGDWnZFR9tmFcfQy2k9sWm9B9oPCn1e84hkKXlrfA-n_b3c1IRjtE7aPIkNtaLBaB4sUQ4ducdCEJ0mjzqJSa9bnfB4aKEeNom7QZIaFg1E5JYV8CMiv_6ND2F_IDyLdzhH7d9Dwbb2xWZXpjWPKWsrWBoRY5nOYwp4OvUL6pnL9WXgVLotNzQKIcUzRcSj83vQ0wA-mrP31bk7P1Cd97CENrvoA7LxA8Sy7YyRURLh_J6HwW4D0Ll1q8NeTpz0YBhqhQ&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQIKxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiKcOEwnGt6Zbsb6COOyPCK0IMzHZtgXzQKxKFevNakMIzHGDWnZFR9tmFcfQy2k9sWm9B9oPCn1e84hkKXlrfA-n_b3c1IRjtE7aPIkNtaLBaB4sUQ4ducdCEJ0mjzqJSa9bnfB4aKEeNom7QZIaFg1E5JYV8CMiv_6ND2F_IDyLdzhH7d9Dwbb2xWZXpjWPKWsrWBoRY5nOYwp4OvUL6pnL9WXgVLotNzQKIcUzRcSj83vQ0wA-mrP31bk7P1Cd97CENrvoA7LxA8Sy7YyRURLh_J6HwW4D0Ll1q8NeTpz0YBhqhQ"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiKcOEwnGt6Zbsb6COOyPCK0IMzHZtgXzQKxKFevNakMIQTEhXErGRA8Z9keA5QACAhtKokHRAXVCfZQgNH0vmRfcjJPrtyBCKM1DUGUM3vav_5rAs6-G_BpG7YrYEYlVthIVeVegFkTZwzaSyK-cyOrWUOpMVngH6r-eLZkJMtjw-v520fHiGAVT2N0hWsNj085qfAV8l7Rigc71Qr2SDmmNi3WgPBUGZck2xHlS_XLlmcAMzDpBnKgYUKTBQWynz4rldZMKxGN3hbwGyCDITy-0s9_Imx3EJTKbPJRmvH_ouXGnGq4IGvQBzCxeaweunQVg0ro",
+            "q": "Construction Worker Bangalore part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiKcOEwnGt6Zbsb6COOyPCK0IMzHZtgXzQKxKFevNakMIQTEhXErGRA8Z9keA5QACAhtKokHRAXVCfZQgNH0vmRfcjJPrtyBCKM1DUGUM3vav_5rAs6-G_BpG7YrYEYlVthIVeVegFkTZwzaSyK-cyOrWUOpMVngH6r-eLZkJMtjw-v520fHiGAVT2N0hWsNj085qfAV8l7Rigc71Qr2SDmmNi3WgPBUGZck2xHlS_XLlmcAMzDpBnKgYUKTBQWynz4rldZMKxGN3hbwGyCDITy-0s9_Imx3EJTKbPJRmvH_ouXGnGq4IGvQBzCxeaweunQVg0ro&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQIKxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiKcOEwnGt6Zbsb6COOyPCK0IMzHZtgXzQKxKFevNakMIQTEhXErGRA8Z9keA5QACAhtKokHRAXVCfZQgNH0vmRfcjJPrtyBCKM1DUGUM3vav_5rAs6-G_BpG7YrYEYlVthIVeVegFkTZwzaSyK-cyOrWUOpMVngH6r-eLZkJMtjw-v520fHiGAVT2N0hWsNj085qfAV8l7Rigc71Qr2SDmmNi3WgPBUGZck2xHlS_XLlmcAMzDpBnKgYUKTBQWynz4rldZMKxGN3hbwGyCDITy-0s9_Imx3EJTKbPJRmvH_ouXGnGq4IGvQBzCxeaweunQVg0ro"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rpHusyZpq3j8GM2p8Pq9jTrr7m4-HJdLlTCBZUKy0C6WiDu8YmPAXe5bt7e7VI7y6wNSEPKexYBE3J13sWHg4Dcg_6z-dbPBehKJWt0naKbxFI4310tSBNW9jw2qiBIRzBvPlqG4lCZjF2c6uUw_DSe881HqjL1PDz-XI3dYNfRpiKOoxtCeBsbz0MceHJnwtEDk41LbcheMVNCE-hxVF-Ab0bLBZfzKbtExS2lKKY0TdnHXcqT1uyVnbogSrOIUT8PNXX6L1VH6I-wcsHHVQk5kWlJpxDPjY_pANS40jXBXFgBUSz7dXWNhDcmHAlBW7sfJUKw",
+            "q": "Construction Worker Bangalore contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rpHusyZpq3j8GM2p8Pq9jTrr7m4-HJdLlTCBZUKy0C6WiDu8YmPAXe5bt7e7VI7y6wNSEPKexYBE3J13sWHg4Dcg_6z-dbPBehKJWt0naKbxFI4310tSBNW9jw2qiBIRzBvPlqG4lCZjF2c6uUw_DSe881HqjL1PDz-XI3dYNfRpiKOoxtCeBsbz0MceHJnwtEDk41LbcheMVNCE-hxVF-Ab0bLBZfzKbtExS2lKKY0TdnHXcqT1uyVnbogSrOIUT8PNXX6L1VH6I-wcsHHVQk5kWlJpxDPjY_pANS40jXBXFgBUSz7dXWNhDcmHAlBW7sfJUKw&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQIKxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rpHusyZpq3j8GM2p8Pq9jTrr7m4-HJdLlTCBZUKy0C6WiDu8YmPAXe5bt7e7VI7y6wNSEPKexYBE3J13sWHg4Dcg_6z-dbPBehKJWt0naKbxFI4310tSBNW9jw2qiBIRzBvPlqG4lCZjF2c6uUw_DSe881HqjL1PDz-XI3dYNfRpiKOoxtCeBsbz0MceHJnwtEDk41LbcheMVNCE-hxVF-Ab0bLBZfzKbtExS2lKKY0TdnHXcqT1uyVnbogSrOIUT8PNXX6L1VH6I-wcsHHVQk5kWlJpxDPjY_pANS40jXBXFgBUSz7dXWNhDcmHAlBW7sfJUKw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yv0ghc6nhfMfaLUNDqs5wKR8-LsuR8XBdRxeb8SzHVIr8EhumJOwoBWAM79XTDtQ0NhLI8MJke2S5U9uiSDUqiHHD-Y0h7553GEy_NWYNJScUmLZASCdw209D66zMAHTtdS1ZSXZbEzDIY1UuWG4f9BrfxWn0RZRcE0NX2W_lhYKMrDPFdKmjRHIpLZ7zgIRwZmksFi024K3DzQqL7kh3dNN1U63HRt6S1nFgvoB6KEv90e3ONUVd4EuQhHzPOhBKZtleEJgILxnn8N0l08cWbP34ynQPCyn6Omr8TT7kPiBiKTbnw",
+            "q": "Construction Worker Bangalore internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yv0ghc6nhfMfaLUNDqs5wKR8-LsuR8XBdRxeb8SzHVIr8EhumJOwoBWAM79XTDtQ0NhLI8MJke2S5U9uiSDUqiHHD-Y0h7553GEy_NWYNJScUmLZASCdw209D66zMAHTtdS1ZSXZbEzDIY1UuWG4f9BrfxWn0RZRcE0NX2W_lhYKMrDPFdKmjRHIpLZ7zgIRwZmksFi024K3DzQqL7kh3dNN1U63HRt6S1nFgvoB6KEv90e3ONUVd4EuQhHzPOhBKZtleEJgILxnn8N0l08cWbP34ynQPCyn6Omr8TT7kPiBiKTbnw&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQIKxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yv0ghc6nhfMfaLUNDqs5wKR8-LsuR8XBdRxeb8SzHVIr8EhumJOwoBWAM79XTDtQ0NhLI8MJke2S5U9uiSDUqiHHD-Y0h7553GEy_NWYNJScUmLZASCdw209D66zMAHTtdS1ZSXZbEzDIY1UuWG4f9BrfxWn0RZRcE0NX2W_lhYKMrDPFdKmjRHIpLZ7zgIRwZmksFi024K3DzQqL7kh3dNN1U63HRt6S1nFgvoB6KEv90e3ONUVd4EuQhHzPOhBKZtleEJgILxnn8N0l08cWbP34ynQPCyn6Omr8TT7kPiBiKTbnw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiKcOEwnGt6Zbsb6COOyPCK0IMzHZtgXzQKxKFevNakMIzHGDWnZFR9tmFcfQy2k9sWm9B9oPCn1e84hkKXlrfA-n_b3c1IRjtE7aPIkNtaLBaB4sUQ4ducdCEJ0mjzqJSa9bnfB4aKEeNom7QZIaFg1E5JYV8CMiv_6ND2F_IDyLdzhH7d9Dwbb2xWZXpjWPKWsrWBoRY5nOYwp4OvUL6pnL9WXgVLotNzQKIcUzRcSj83vQ0wA-mrP31bk7P1Cd97CENrvoA7LxA8Sy7YyRURLh_J6HwW4D0Ll1q8NeTpz0YBhqhQ",
+            "q": "Construction Worker Bangalore full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiKcOEwnGt6Zbsb6COOyPCK0IMzHZtgXzQKxKFevNakMIzHGDWnZFR9tmFcfQy2k9sWm9B9oPCn1e84hkKXlrfA-n_b3c1IRjtE7aPIkNtaLBaB4sUQ4ducdCEJ0mjzqJSa9bnfB4aKEeNom7QZIaFg1E5JYV8CMiv_6ND2F_IDyLdzhH7d9Dwbb2xWZXpjWPKWsrWBoRY5nOYwp4OvUL6pnL9WXgVLotNzQKIcUzRcSj83vQ0wA-mrP31bk7P1Cd97CENrvoA7LxA8Sy7YyRURLh_J6HwW4D0Ll1q8NeTpz0YBhqhQ&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQILRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiKcOEwnGt6Zbsb6COOyPCK0IMzHZtgXzQKxKFevNakMIzHGDWnZFR9tmFcfQy2k9sWm9B9oPCn1e84hkKXlrfA-n_b3c1IRjtE7aPIkNtaLBaB4sUQ4ducdCEJ0mjzqJSa9bnfB4aKEeNom7QZIaFg1E5JYV8CMiv_6ND2F_IDyLdzhH7d9Dwbb2xWZXpjWPKWsrWBoRY5nOYwp4OvUL6pnL9WXgVLotNzQKIcUzRcSj83vQ0wA-mrP31bk7P1Cd97CENrvoA7LxA8Sy7YyRURLh_J6HwW4D0Ll1q8NeTpz0YBhqhQ"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiKcOEwnGt6Zbsb6COOyPCK0IMzHZtgXzQKxKFevNakMIQTEhXErGRA8Z9keA5QACAhtKokHRAXVCfZQgNH0vmRfcjJPrtyBCKM1DUGUM3vav_5rAs6-G_BpG7YrYEYlVthIVeVegFkTZwzaSyK-cyOrWUOpMVngH6r-eLZkJMtjw-v520fHiGAVT2N0hWsNj085qfAV8l7Rigc71Qr2SDmmNi3WgPBUGZck2xHlS_XLlmcAMzDpBnKgYUKTBQWynz4rldZMKxGN3hbwGyCDITy-0s9_Imx3EJTKbPJRmvH_ouXGnGq4IGvQBzCxeaweunQVg0ro",
+            "q": "Construction Worker Bangalore part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiKcOEwnGt6Zbsb6COOyPCK0IMzHZtgXzQKxKFevNakMIQTEhXErGRA8Z9keA5QACAhtKokHRAXVCfZQgNH0vmRfcjJPrtyBCKM1DUGUM3vav_5rAs6-G_BpG7YrYEYlVthIVeVegFkTZwzaSyK-cyOrWUOpMVngH6r-eLZkJMtjw-v520fHiGAVT2N0hWsNj085qfAV8l7Rigc71Qr2SDmmNi3WgPBUGZck2xHlS_XLlmcAMzDpBnKgYUKTBQWynz4rldZMKxGN3hbwGyCDITy-0s9_Imx3EJTKbPJRmvH_ouXGnGq4IGvQBzCxeaweunQVg0ro&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQILRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiKcOEwnGt6Zbsb6COOyPCK0IMzHZtgXzQKxKFevNakMIQTEhXErGRA8Z9keA5QACAhtKokHRAXVCfZQgNH0vmRfcjJPrtyBCKM1DUGUM3vav_5rAs6-G_BpG7YrYEYlVthIVeVegFkTZwzaSyK-cyOrWUOpMVngH6r-eLZkJMtjw-v520fHiGAVT2N0hWsNj085qfAV8l7Rigc71Qr2SDmmNi3WgPBUGZck2xHlS_XLlmcAMzDpBnKgYUKTBQWynz4rldZMKxGN3hbwGyCDITy-0s9_Imx3EJTKbPJRmvH_ouXGnGq4IGvQBzCxeaweunQVg0ro"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rpHusyZpq3j8GM2p8Pq9jTrr7m4-HJdLlTCBZUKy0C6WiDu8YmPAXe5bt7e7VI7y6wNSEPKexYBE3J13sWHg4Dcg_6z-dbPBehKJWt0naKbxFI4310tSBNW9jw2qiBIRzBvPlqG4lCZjF2c6uUw_DSe881HqjL1PDz-XI3dYNfRpiKOoxtCeBsbz0MceHJnwtEDk41LbcheMVNCE-hxVF-Ab0bLBZfzKbtExS2lKKY0TdnHXcqT1uyVnbogSrOIUT8PNXX6L1VH6I-wcsHHVQk5kWlJpxDPjY_pANS40jXBXFgBUSz7dXWNhDcmHAlBW7sfJUKw",
+            "q": "Construction Worker Bangalore contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rpHusyZpq3j8GM2p8Pq9jTrr7m4-HJdLlTCBZUKy0C6WiDu8YmPAXe5bt7e7VI7y6wNSEPKexYBE3J13sWHg4Dcg_6z-dbPBehKJWt0naKbxFI4310tSBNW9jw2qiBIRzBvPlqG4lCZjF2c6uUw_DSe881HqjL1PDz-XI3dYNfRpiKOoxtCeBsbz0MceHJnwtEDk41LbcheMVNCE-hxVF-Ab0bLBZfzKbtExS2lKKY0TdnHXcqT1uyVnbogSrOIUT8PNXX6L1VH6I-wcsHHVQk5kWlJpxDPjY_pANS40jXBXFgBUSz7dXWNhDcmHAlBW7sfJUKw&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQILRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rpHusyZpq3j8GM2p8Pq9jTrr7m4-HJdLlTCBZUKy0C6WiDu8YmPAXe5bt7e7VI7y6wNSEPKexYBE3J13sWHg4Dcg_6z-dbPBehKJWt0naKbxFI4310tSBNW9jw2qiBIRzBvPlqG4lCZjF2c6uUw_DSe881HqjL1PDz-XI3dYNfRpiKOoxtCeBsbz0MceHJnwtEDk41LbcheMVNCE-hxVF-Ab0bLBZfzKbtExS2lKKY0TdnHXcqT1uyVnbogSrOIUT8PNXX6L1VH6I-wcsHHVQk5kWlJpxDPjY_pANS40jXBXFgBUSz7dXWNhDcmHAlBW7sfJUKw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yv0ghc6nhfMfaLUNDqs5wKR8-LsuR8XBdRxeb8SzHVIr8EhumJOwoBWAM79XTDtQ0NhLI8MJke2S5U9uiSDUqiHHD-Y0h7553GEy_NWYNJScUmLZASCdw209D66zMAHTtdS1ZSXZbEzDIY1UuWG4f9BrfxWn0RZRcE0NX2W_lhYKMrDPFdKmjRHIpLZ7zgIRwZmksFi024K3DzQqL7kh3dNN1U63HRt6S1nFgvoB6KEv90e3ONUVd4EuQhHzPOhBKZtleEJgILxnn8N0l08cWbP34ynQPCyn6Omr8TT7kPiBiKTbnw",
+            "q": "Construction Worker Bangalore internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=76f5802886e06525&q=Construction+Worker+Bangalore+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yv0ghc6nhfMfaLUNDqs5wKR8-LsuR8XBdRxeb8SzHVIr8EhumJOwoBWAM79XTDtQ0NhLI8MJke2S5U9uiSDUqiHHD-Y0h7553GEy_NWYNJScUmLZASCdw209D66zMAHTtdS1ZSXZbEzDIY1UuWG4f9BrfxWn0RZRcE0NX2W_lhYKMrDPFdKmjRHIpLZ7zgIRwZmksFi024K3DzQqL7kh3dNN1U63HRt6S1nFgvoB6KEv90e3ONUVd4EuQhHzPOhBKZtleEJgILxnn8N0l08cWbP34ynQPCyn6Omr8TT7kPiBiKTbnw&udm=8&sa=X&ved=2ahUKEwitxv30s7iVAxWp48kDHS9bFGQQkbEKegQILRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Construction+Worker+Bangalore+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yv0ghc6nhfMfaLUNDqs5wKR8-LsuR8XBdRxeb8SzHVIr8EhumJOwoBWAM79XTDtQ0NhLI8MJke2S5U9uiSDUqiHHD-Y0h7553GEy_NWYNJScUmLZASCdw209D66zMAHTtdS1ZSXZbEzDIY1UuWG4f9BrfxWn0RZRcE0NX2W_lhYKMrDPFdKmjRHIpLZ7zgIRwZmksFi024K3DzQqL7kh3dNN1U63HRt6S1nFgvoB6KEv90e3ONUVd4EuQhHzPOhBKZtleEJgILxnn8N0l08cWbP34ynQPCyn6Omr8TT7kPiBiKTbnw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Estimating Associate",
+      "company_name": "King Rose Construction",
+      "location": "Bengaluru, Karnataka, India",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Construction+Worker+Bangalore&htidocid=9aVhkadPE_S9CtzCAAAAAA%3D%3D&hl=en-US&shem=epsd1&shndl=37&shmd=H4sIAAAAAAAA_xWNMQ7CMAwAxdonMHmG0iCkLjABQgi68YHKDVEaSO0odqV-h5_SLrfdXfFbFdubaBhQA3k4i7ANqA528OQOxGG2PTDBndlHtz71qkmOxojEyovOmq0sD4bJdTyZD3eyoJUes0txTrWHej9VifymbpbHi8XBlUk0j1bD3A4EF0ce45jHEhrMhIpfLOFB74B_dyfPBKQAAAA&shmds=v1_ARwrE23OVfWIooD8_9yVIxzAUatlb0vd45TgugJAqS8FaQTXmw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Construction+Worker+Bangalore&htidocid=9aVhkadPE_S9CtzCAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6a48a9920676dc0f4b341de5/images/nKzbjROMCNjXrNdbiuTBpRwCHFSMOop3Dt8jk8wKYYE.jpeg",
+      "extensions": [
+        "23 hours ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "23 hours ago",
+        "schedule_type": "Full-time"
+      },
+      "source_link": "https://in.linkedin.com/jobs/view/estimating-associate-at-king-rose-construction-4433165216",
+      "job_title": "Estimating Associate",
+      "description": "Job Description \u2013 Estimating Associate \n\n\n\n\nKing Rose Construction is an entrepreneurial, growing construction company\n\nheadquartered in New York City, specializing in commercial fit-outs. Our clients include\n\nColumbia University, NASA, and many other prestigious organizations. We have our Project\n\nManagement Office, King Rose Services Private Limited in Bangalore, which provides\n\nbackend support to the team in New York. King Rose Services is a subsidiary of King Rose\n\nConstruction.\n\n\n\n\nThis position will support the Estimating Department and assist with proposal\n\ncoordination, RFP management, project documentation, client communication, and\n\ninternal tracking processes for projects in the New York City market. Candidates must\n\npossess strong communication skills, exceptional attention to detail, high ownership, and\n\nthe drive to work in a fast-paced environment. The position works exclusively out of the\n\nBangalore office.\n\n\n\n\nResponsibilities: \n\n\n\n\n\u2022 Review and manage incoming RFPs (Request for Proposals)\n\n\u2022 Maintain and organize project folders and documentation\n\n\u2022 Coordinate proposal preparation and submission processes\n\n\u2022 Perform regular proposal and client follow-ups\n\n\u2022 Maintain and update project information in internal systems\n\n\u2022 Prepare reports, trackers, and estimation-related documentation\n\n\u2022 Coordinate with clients, subcontractors, vendors, and internal teams\n\n\u2022 Ensure timely response to emails and project-related communication\n\n\u2022 Support project activation and documentation procedures\n\n\u2022 Maintain accurate records and data entry with high attention to detail\n\n\u2022 Assist the estimating team with day-to-day operational activities\n\n\n\n\nRequirements: \n\n\n\n\n\u2022 Education: Bachelor\u2019s Degree\n\n\u2022 2 to 3 years of experience in BPO, backend operations, coordination, or data entry roles\n\n\u2022 Excellent verbal and written English communication skills\n\n\u2022 Strong Microsoft Excel and Microsoft Office proficiency\n\n\u2022 High attention to detail and organizational skills\n\n\u2022 Smart, proactive, and quick-learning individual with strong drive and ownership\n\n\u2022 Ability to multitask and work under deadlines\n\n\u2022 Strong professional communication and follow-up skills\n\n\u2022 Prior experience in construction coordination or estimation support is an added advantage\n\n\n\n\nCompensation: \n\n\n\n\n\u2022 Salary commensurate with experience\n\n\u2022 Cab services provided for Female employees for drop and transport reimbursements for Male employees\n\n\u2022 Year-end Bonus\n\n\u2022 Medical Insurance after completion of 6 months probation in the company\n\n\n\n\nHours: \n\n\n\n\n\u2022 7:00am EST to 3:30pm EST / 4:30pm IST to 1:00am IST\n\n\n\n\nThis is a tremendous opportunity to work for a leading New York City-based construction\n\ncompany. We offer professional, personal, and financial growth for the right candidate.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/estimating-associate-at-king-rose-construction-4433165216?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJFc3RpbWF0aW5nIEFzc29jaWF0ZSIsImNvbXBhbnlfbmFtZSI6IktpbmcgUm9zZSBDb25zdHJ1Y3Rpb24iLCJodGlkb2NpZCI6IjlhVmhrYWRQRV9TOUN0ekNBQUFBQUE9PSIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMyTnVTVTQzZW5ZMFJERnNhMEpGU0ZOYVpHeEplVTB3YzB4M1ZHZExRbVJxZUVwWFpVbERSa2d3ZG1sUExVaEdjamhVTWtnNVZIUnRka2hwTjFoMlVuSm9OM0ZNUTJadk1VMXdXRzEzTUhKSWNXSkVSRXRLVnpoT09HNVBiVzlvTjBWdWJFNHdYMVZtYlZJemFGQlplRWhFWjFSa0xVMXhjalpWT1dob2NtbEtlR2t0YVZVU0YzQmhiRWxoZFRObVRtRnVTSEE0TkZCeU4ySlNiMEZaR2lKQlJITnlPV1pTTlhwTVFqWTFaVFJUTTFCSldHTTFObmMyVm5GUVEyRllNVmgzIiwiZmN2IjoiMyIsImZjX2lkIjoiOWFWaGthZFBFX1M5Q3R6Q0FBQUFBQT09In0="
+    },
+    {
+      "title": "Construction Worker",
+      "company_name": "2coms",
+      "location": "Bengaluru, Karnataka, India",
+      "via": "Jooble",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Construction+Worker+Bangalore&htidocid=4Mp2NqrXgVhmemz4AAAAAA%3D%3D&hl=en-US&shem=epsd1&shndl=37&shmd=H4sIAAAAAAAA_xXKMQ6CQBBA0dhyBKsprAiyhsRGOy2MegBLMqyTZWGdITtDwi28stj84uUX301RXoXV8uwtCsNL8kgZ9vCQDpQw-x5WvomERNtzbzbpyTnVVAc1tOhrLx8nTJ0sbpBO_2m1x0xTQqO2OR6WeuJQ7pr1VIgMF-KAac5zBU_MjIYjVnDnd8QfEKn6WJIAAAA&shmds=v1_ARwrE20p4dFP6Wi3wyVqSDzXEvNWWMzDNslQuwLPmrGDI78A7w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Construction+Worker+Bangalore&htidocid=4Mp2NqrXgVhmemz4AAAAAA%3D%3D",
+      "extensions": [
+        "\u20b9200K\u2013\u20b9500K a year",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "salary": "\u20b9200K\u2013\u20b9500K a year",
+        "schedule_type": "Full-time",
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://in.jooble.org/jdp/-6139318113986217303",
+      "job_title": "Construction Worker",
+      "description": "Job Title: Construction Worker \n\n\n Job Location: Dubai, UAE (Candidate must be willing to relocate to Dubai)\n\n\n Job Responsibilities \n Shuttering Carpenter \n\n\n Prepare and install shuttering/formwork for concrete structures \n Read basic construction drawings and measurements \n Assemble and dismantle formwork safely \n Steel Fixer \n\n\n Cut, bend, and fix reinforcement steel as per project requirements \n Read bar bending schedules and site drawings \n Ensure proper alignment and binding of steel structures \n Mason \n\n\n Perform brickwork, plastering, block laying, and finishing work \n Maintain quality and accuracy in construction activities \n Follow supervisor instructions and site safety guidelines \n Salary: 41000 INR Per Month \n\n\n Requirements 3+ years of working experience in construction/site as a Shuttering Carpenter/ Steel Fixer/ Mason \n Physically fit for construction work \n Basic knowledge of workplace safety procedures \n Gulf experience will be an added advantage \n Benefits  Attractive Salary Package for Semi-Skilled Category \n Free Food Provided by Company \n Free Accommodation Provided \n Transportation Provided by Company \n Employment Visa Provided \n Flight Ticket Not Included",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-6139318113986217303?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb25zdHJ1Y3Rpb24gV29ya2VyIiwiY29tcGFueV9uYW1lIjoiMmNvbXMiLCJodGlkb2NpZCI6IjRNcDJOcXJYZ1ZobWVtejRBQUFBQUE9PSIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMzQk1iRU5ZZFdSalJYcGlNemd6ZFRaWVdXMWlXVVJCUkdsVlVYSlhiMUZUVURCNlRHNVBjbGhMYW04dFNYbFBaVzE2VUhjdFdtRmpRMUJTWkRsVVVteFJTMFpuV2tKbFFWWklYMlpIY2tsa2FqaGhRVkJSYjNsc2RDMHdRMWx0VURJNVRHcE9jM0V3WDJaNVJHUTJSVGx0VmpKclZsOUJWVGhzVTJ0c00yUmlWblZUUTNjU0YzQmhiRWxoZFRObVRtRnVTSEE0TkZCeU4ySlNiMEZaR2lKQlJITnlPV1pUY2xoZmJWTjVOVlpZVDB0elpsVm5VVTB5V0hoT2VXSndaUzFSIiwiZmN2IjoiMyIsImZjX2lkIjoiNE1wMk5xclhnVmhtZW16NEFBQUFBQT09In0="
+    },
+    {
+      "title": "Construction Manager Civil - Full Time",
+      "company_name": "Bhadani Quantity Surveyors and Training Private Limited",
+      "location": "Bengaluru, Karnataka, India",
+      "via": "Placement India",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Construction+Worker+Bangalore&htidocid=KhLUAbUiHPxo9-xIAAAAAA%3D%3D&hl=en-US&shem=epsd1&shndl=37&shmd=H4sIAAAAAAAA_xWLu2rDUAxA6ZpP6KS5pHYpdEnpkkBDX9CQ0DXItrhWcy0ZSdck_9kPirscznDO4u9m8bJR8bDSBqvAFwomMtjwxBnu4bXkDAceaPZ3bcAJre1hLreqKdPtcx8x-qqu3XOVPDC4rVodahVq9Fz_auP_OHqPRmPGoOPj08O5GiXd_ax77FAYdgUlOC6wLzbRRc0BpYODIQtLgm_jaT7hkwcO6oAF1iQJc7GyhA80wcATLuFNOsYrAQShd9cAAAA&shmds=v1_ARwrE20s_DkPIQuQZDi6c1DtTlyR8nAX4juVxVUZXdMHTSo_5A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Construction+Worker+Bangalore&htidocid=KhLUAbUiHPxo9-xIAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6a48a9920676dc0f4b341de5/images/2bJYS2bElghs-f3gfOg-QJFqCGB9FJDOc2yKIUeRYxY.jpeg",
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "source_link": "https://www.placementindia.com/job-detail/construction-manager-civil-in-bhadani-quantity-surveyors-training-private-limited-at-bangalore-1425160.htm",
+      "job_title": "Construction Manager Civil - Full Time",
+      "description": "We are seeking an experienced Construction Manager in Civil Engineering to oversee and manage construction projects in Bangalore. This role requires strong leadership skills and a commitment to ensuring projects are completed on time and within budget.Key Responsibilities:1. **Project Planning**: Develop detailed project plans that outline various phases of construction and timelines to ensure smooth execution from start to finish.2. **Team Management**: Lead and coordinate a team of engineers, workers, and subcontractors, ensuring clear communication and collaboration among all members for efficient workflow.3. **Quality Control**: Monitor work quality on-site to ensure all construction meets industry standards and regulations. Conduct regular inspections to identify any issues requiring immediate attention.4. **Budget Management**: Oversee project budgets, tracking expenses and resources to ensure costs remain within approved limits while efficiently allocating funds to different project needs.5. **Safety Compliance**: Implement and monitor safety measures and protocols to maintain a safe working environment for all staff, ensuring adherence to health and safety regulations.\n\nExperience\n\n3 - 9 Years\n\nNo. of Openings\n\n14\n\nEducation\n\nGraduate (B.Arch, B.Tech/B.E : Civil, Professional Degree, Certificate/Diploma/Others)\n\nRole\n\nConstruction Manager Civil\n\nIndustry Type\n\nReal Estate / Property\n\nGender\n\n[ Male / Female ]\n\nJob Country\n\nIndia\n\nType of Job\n\nFull Time\n\nWork Location Type\n\nWork from Office\n\nFace Interview Location\n\nMARATHALLI BANGALORE, KARNATAKA",
+      "apply_options": [
+        {
+          "title": "Placement India",
+          "link": "https://www.placementindia.com/job-detail/construction-manager-civil-in-bhadani-quantity-surveyors-training-private-limited-at-bangalore-1425160.htm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb25zdHJ1Y3Rpb24gTWFuYWdlciBDaXZpbCAtIEZ1bGwgVGltZSIsImNvbXBhbnlfbmFtZSI6IkJoYWRhbmkgUXVhbnRpdHkgU3VydmV5b3JzIGFuZCBUcmFpbmluZyBQcml2YXRlIExpbWl0ZWQiLCJodGlkb2NpZCI6IktoTFVBYlVpSFB4bzkteElBQUFBQUE9PSIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMyOUxjbHAyVFc5WmVtVjRSazlKY0RKa1pVNUxTRFIyWldGMVNHTXhMWEpmVDB4YVZFSlZialZITWpSVVZVbERUR2hWVURSeWNVdzJiMDAxVGtaNlZYbFdXRlJzT1ZGcVRtWm9YM1EzV0dsd1pHY3lRV0YzYjJJME0xTjFkVXN3YzFkSGFtUTFSRFU1YjFNeVZUSkJiVVZqZWpKTFdXNDFiV3hzVW5Gc00wbzFOa0pJTFVFU0YzQmhiRWxoZFRObVRtRnVTSEE0TkZCeU4ySlNiMEZaR2lKQlJITnlPV1pVZEhnNGFUZzJObWRRTWpJMFlWSkNWR1pQVVVjMFlscFRjR0puIiwiZmN2IjoiMyIsImZjX2lkIjoiS2hMVUFiVWlIUHhvOS14SUFBQUFBQT09In0="
+    },
+    {
+      "title": "Opening For Construction Supervisor",
+      "company_name": "AK Consulting",
+      "location": "Bengaluru, Karnataka, India",
+      "via": "Placement India",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Construction+Worker+Bangalore&htidocid=rjetMWsfBx9195iBAAAAAA%3D%3D&hl=en-US&shem=epsd1&shndl=37&shmd=H4sIAAAAAAAA_x2NMQ7CMAwAxcoTmDyj0iAkljIBEgg6MPCAyi1RGgh2FDuoP-KbtCw33A03_87m1S1a8uTgxAmOTKIpd-qZ4J6jTR8vo1_BlVsQi6nrYUxnZhfsYterRqmMEQmlE0X1Xdnx2zDZlgfz5FYmNNJjsjGg2mazXQ9lJLcs9vX_l4NOe09wsOQw5JQLqDERKr6wgAs9PP4AAAFCp6oAAAA&shmds=v1_ARwrE229ZprGC2W92F8aa8QVy-8VnR1uqCbTFqNKySGaRAPRJQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Construction+Worker+Bangalore&htidocid=rjetMWsfBx9195iBAAAAAA%3D%3D",
+      "extensions": [
+        "\u20b9200K\u2013\u20b9600K a year",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "salary": "\u20b9200K\u2013\u20b9600K a year",
+        "schedule_type": "Full-time"
+      },
+      "source_link": "https://www.placementindia.com/job-detail/construction-supervisor-in-ak-consulting-at-bangalore-1408992.htm",
+      "job_title": "Opening For Construction Supervisor",
+      "description": "Construction site supervision, handling workers and execute works according to provided plans, handling material purchase and inventory, Visit every construction sites and make reports, discussion with architects or clients if required\n\nExperience\n\n2 Years\n\nNo. of Openings\n\n2\n\nEducation\n\nGraduate\n\nRole\n\nConstruction Supervisor\n\nIndustry Type\n\nReal Estate / Property\n\nGender\n\nMale\n\nJob Country\n\nIndia\n\nType of Job\n\nFull Time\n\nWork Location Type\n\nWork from Office\n\nFace Interview Location\n\nZION STREET, VADARPALYA, KALYAN NAGAR POST, BANGALORE - 560043",
+      "apply_options": [
+        {
+          "title": "Placement India",
+          "link": "https://www.placementindia.com/job-detail/construction-supervisor-in-ak-consulting-at-bangalore-1408992.htm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJPcGVuaW5nIEZvciBDb25zdHJ1Y3Rpb24gU3VwZXJ2aXNvciIsImNvbXBhbnlfbmFtZSI6IkFLIENvbnN1bHRpbmciLCJodGlkb2NpZCI6InJqZXRNV3NmQng5MTk1aUJBQUFBQUE9PSIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMzVXhPRFp2VTJOa0xXNUliMHREUldsMVlWa3dSV1JOVWxVMU5IQjVXVXcyVlU4NU5GZzBYeTFaWVdOdWNURnhNa1Z2VVdac1pFUmFjblpwTFRZNVRVZDRZM2N0WDJKc1pWWXpVSEp3VHpka2IxUjJRekk0U0RJMFZWVm1Semg0Y21ONFFVSkdaRVpZU2twd1NWVklOalptTFVaaVZtdEJlVjlxV1ZWa1psazFZMGM0UVhvU0YzQmhiRWxoZFRObVRtRnVTSEE0TkZCeU4ySlNiMEZaR2lKQlJITnlPV1pSWkd0bFdHNXBOVkpXWDI5NmNrcDNiVEZaUzFWbVdHZGFjMU5SIiwiZmN2IjoiMyIsImZjX2lkIjoicmpldE1Xc2ZCeDkxOTVpQkFBQUFBQT09In0="
+    },
+    {
+      "title": "Civil Engineer required in Glorious Construction, Bangalore",
+      "company_name": "Confidential",
+      "location": "Bengaluru, Karnataka, India",
+      "via": "OLX India",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Construction+Worker+Bangalore&htidocid=AKMdnVOBYz6RtaqMAAAAAA%3D%3D&hl=en-US&shem=epsd1&shndl=37&shmd=H4sIAAAAAAAA_xWOsW7CUAxF1ZVP6OSZhgRV6tJuIISAjR9ATuK-uH3YwfZDfB3fRrLc5ejo3MXzbXHe8p0z7CSxEBkY3Qob9cAC-6zGWhy2Kh5WumCVCjYoCSdEsIKjtuCE1g2gk6CaMr3_DBGjfzeNe66TBwZ3dafXRoVafTR_2vo8Fx_QaMwYdPn8Wj_qUdLyY4r9ck8SjHl-saE5V6xUcEITDPzHCg7SM74AKo6FVMEAAAA&shmds=v1_ARwrE20r-2bQvf-svEE3Hyp19WGNc1vBgZ3Fd0Z7ry9XdxoH4Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Construction+Worker+Bangalore&htidocid=AKMdnVOBYz6RtaqMAAAAAA%3D%3D",
+      "extensions": [
+        "17 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "17 days ago",
+        "schedule_type": "Full-time",
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.olx.in/item/hotel-travel-executive-c1439-full-time-in-lingarajapuram-bengaluru-iid-1846276618",
+      "job_title": "Civil Engineer required in Glorious Construction, Bangalore",
+      "description": "Glorious is seeking an experienced Civil Engineer to oversee and manage construction projects from planning to execution. Applicants should have a minimum of 2 years of site experience, strong knowledge of construction practices, excellent leadership and problem-solving abilities, and the ability to interpret technical drawings. The role involves analyzing blueprints, supervising site activities, ensuring compliance with safety regulations and building codes, monitoring project progress, and coordinating with contractors and subcontractors. The candidate will maintain project records, prepare progress reports, and recommend improvements to enhance efficiency and quality.  A Civil Engineering degree is preferred. Salary starting from 25,000 to 35,000 as based on  experience and knowledge. Drop a mail  glorious6602  gmail com",
+      "apply_options": [
+        {
+          "title": "OLX India",
+          "link": "https://www.olx.in/item/hotel-travel-executive-c1439-full-time-in-lingarajapuram-bengaluru-iid-1846276618?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDaXZpbCBFbmdpbmVlciByZXF1aXJlZCBpbiBHbG9yaW91cyBDb25zdHJ1Y3Rpb24sIEJhbmdhbG9yZSIsImNvbXBhbnlfbmFtZSI6IkNvbmZpZGVudGlhbCIsImh0aWRvY2lkIjoiQUtNZG5WT0JZejZSdGFxTUFBQUFBQT09IiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEZrNU5WcGxUMlE1VlUxMFZEVnRMVWhvTlhnemNXNHRNVmxYWWprdGFXWndia2wzWWtkclV6TnFSRXBWVnpReE5uWXRhRWM1TFhWb1R6RmlkM1pUZUdOR1p6WndWMDFpVEhsb1VXbHRUVEpGVm10c04zVkZjalJLVm5wcWVFTndVa1JWY0cxcWJHUmxlaTAyUkRsdWFHNUNWRFJyZFdOTE9WRlJTSGN4VEhSalpXeDFTalVTRjNCaGJFbGhkVE5tVG1GdVNIQTRORkJ5TjJKU2IwRlpHaUpCUkhOeU9XWlJSMUV0VUd4UFltTTNORGgzVEZKbmQwRllVR1JaVlRrM2JtVm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJBS01kblZPQll6NlJ0YXFNQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Site Safety Officer",
+      "company_name": "DMR Construction Solutions",
+      "location": "Bengaluru, Karnataka, India",
+      "via": "Glassdoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Construction+Worker+Bangalore&htidocid=-I58NyvIyFYFq2cHAAAAAA%3D%3D&hl=en-US&shem=epsd1&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBBAUWxzBKupQ8yKYKF2KoiKCOYAYbJONqvrTtiZQLyPB1Wbz6t-9plkeeWVoMKW9A3XtvWWEszgxA0IYbIdcIQDsws03XSqvayNEQmlE0X1trT8Mhyp4dE8uJF_aukwUR9QqV4s52PZR5ev9pcb7DiKpsGq_10rDsMfAj7ClqLDMKShgDOmiIpPLOAY7x6_86M586cAAAA&shmds=v1_ARwrE22ydtRL_6MCw6LWgD6wjWNTTa4Od0RIogVJiT8CVCigvw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Construction+Worker+Bangalore&htidocid=-I58NyvIyFYFq2cHAAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "\u20b912,000.00\u2013\u20b942,536.67 a month",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "7 days ago",
+        "salary": "\u20b912,000.00\u2013\u20b942,536.67 a month",
+        "schedule_type": "Full-time",
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.glassdoor.co.in/job-listing/site-safety-officer-dmr-construction-solutions-JV_IC2940587_KO0,19_KE20,46.htm?jl=1010114393181",
+      "job_title": "Site Safety Officer",
+      "description": "**URGENT REQUIREMENT**\n\n1. Enforcing Safety Regulations\nEnsure compliance with local laws like Occupational Safety and Health Act or equivalent national standards\nImplement company safety policies and procedures\nStop unsafe work immediately when needed\n\n2. Site Inspections & Risk Assessment\nConduct daily/weekly safety inspections\nIdentify hazards (fall risks, electrical exposure, machinery issues, etc.)\nCarry out risk assessments and recommend controls\n\n3. Training & Awareness\nConduct toolbox talks and safety briefings\nTrain workers on PPE use, emergency procedures, and safe work practices\nMake sure workers actually follow what they\u2019re taught\n\n4. Incident Investigation\nInvestigate accidents, near-misses, and unsafe conditions\nPrepare reports with root cause analysis\nRecommend corrective and preventive actions\n\n5. Documentation & Reporting\nMaintain safety records, permits, checklists, and compliance logs\nSubmit reports to management or regulatory bodies\nKeep audit-ready documentation at all times\n\n6. Emergency Preparedness\nDevelop and implement emergency response plans\nCoordinate drills (fire, evacuation, etc.)\nEnsure availability of first aid, firefighting equipment, and rescue plans\n\n7. Monitoring PPE & Equipment\nEnsure proper use of PPE (helmets, harnesses, gloves, etc.)\nInspect safety equipment and ensure it\u2019s in working condition\n\nJob Type: Full-time\n\nPay: \u20b912,000.00 - \u20b942,536.64 per month\n\nWork Location: Hybrid remote in Bengaluru, Karnataka",
+      "apply_options": [
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/site-safety-officer-dmr-construction-solutions-JV_IC2940587_KO0,19_KE20,46.htm?jl=1010114393181&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/FEPk6hPWAj0amBb0qtKc7j4-qY6hc6LcCJZwUe_ZZM5vyHznYamUcg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/site-safety-officer-sanjeevini-groups-bengaluru--theirstack-682031258?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/290647594/site-safety-officer-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTaXRlIFNhZmV0eSBPZmZpY2VyIiwiY29tcGFueV9uYW1lIjoiRE1SIENvbnN0cnVjdGlvbiBTb2x1dGlvbnMiLCJodGlkb2NpZCI6Ii1JNThOeXZJeUZZRnEyY0hBQUFBQUE9PSIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMxUTNXVTAyTlU4MWFWcDZXRm8zTUMxeFYwbDZlWFV4TUZoTFZWZHNTVEphZDJSSlpGbGhaRzQwTUVWWGJXOVNkWFZxUkVKV2VrOVNaMmxrUnpWS01GUmtTM0ZyTkhaQ1ZtOWtNR1JQTkZKWWFIZGFZVWR2TXkweGIxUmFlRVJoTjNaVVNGcEJSbHA2YkhWSVZGTlhORVphYWtSeE4wUk9OM2hyVTJGS1dscEJRVE5vUjBFU0YzQmhiRWxoZFRObVRtRnVTSEE0TkZCeU4ySlNiMEZaR2lKQlJITnlPV1pUU1RWWFUya3lPVlUzUW5OamVESnZTWEJJWTFOVGRIaEZibkpSIiwiZmN2IjoiMyIsImZjX2lkIjoiLUk1OE55dkl5RllGcTJjSEFBQUFBQT09In0="
+    },
+    {
+      "title": "Payroll Executive  Real Estate / Construction Industry Experience",
+      "company_name": "Avillion Infrastructure",
+      "location": "Bengaluru, Karnataka, India",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Construction+Worker+Bangalore&htidocid=o9aAASLMLyzs8dOdAAAAAA%3D%3D&hl=en-US&shem=epsd1&shndl=37&shmd=H4sIAAAAAAAA_yWOsQoCMRBEsfUTrLYWvYighVYqImojVnayF9e7aNw9NomcX-kvmcNmYOAxb_rfXv9ywo-K97Btyabo3gRwJsw9RIwEBjbCIWqy0QnDnm8pt0_GG1JHbAnGcJASAqHaGjKzE6k8DZZ1jE1YGBOCL6puzdnCyssIUymteUgZuriGGpUan23X6WzSFg1Xw_nq7bz_G--K_wNJCRzDmrhCnzSN4IjKGPGJo-6Zwx_gYNwh0gAAAA&shmds=v1_ARwrE21QNgkdC5LyaOANZZjhXHez5BkL5qccAKqvnsjaWFzI7w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Construction+Worker+Bangalore&htidocid=o9aAASLMLyzs8dOdAAAAAA%3D%3D",
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "source_link": "https://www.shine.com/jobs/payroll-executive-real-estate-construction-industry-experience/avillion-infrastructure/19197338",
+      "job_title": "Payroll Executive  Real Estate / Construction Industry Experience",
+      "description": "Job Title: Payroll Executive / Statutory Compliance Executive  PF & ESI | Kannada Mandatory\n\nLocation: Bangalore (Onsite)\nExperience: 25 Years\nIndustry Preference: Real Estate / Construction Industry Preferred\nQualification: Any Degree / MBA HR Preferred\n\nCandidate Requirement:\n\nKannada Language Mandatory\n(Should be able to communicate with site employees, labour workforce & local compliance authorities)\n\nJob Overview:\n\nWe are looking for a Payroll & Statutory Compliance Executive with hands-on experience in payroll processing and statutory compliance. The candidate must have practical exposure in PF & ESI filing, documentation, and labour compliance activities, preferably from Real Estate or Construction industry.\n\nKey Responsibilities:\n\nManage monthly payroll processingHandle attendance, salary inputs, deductions & payroll reportsManage statutory compliance:PF Registration & FilingESI Registration & FilingPF / ESI Challan ProcessingStatutory DocumentationPhysically handle PF & ESI filing/documentation workMaintain employee records and compliance filesHandle labour compliance requirementsCoordinate with site teams and workforceSupport HR audits and inspectionsRequired Skills:\n\nHands-on experience in:Payroll ProcessingPF & ESI ComplianceLabour ComplianceEmployee DocumentationPractical knowledge of:EPFOESICStatutory RegistersExperience handling site manpower payroll preferredIndustry Preference:\n\nReal EstateConstructionInfrastructureContract Labour ManagementMandatory Requirements:\n\n Kannada Language Mandatory\n PF & ESI Filing Experience Mandatory\n Physical documentation / office filing experience\n Bangalore candidates preferred\n Immediate Joiners / Short Notice Preferred\n\nCompensation: 35,000.00 - 40,000.00 per month\n\nBenefits:\n\nProvident FundApplication Question(s):\n\nIndustry Experience:Do you have experience working in Real Estate / Construction Industry \n\nPayroll Experience:How many years of experience do you have in Payroll Processing \n\nPayroll Experience:How many years of experience do you have in Payroll Processing  in Bengalore Karnataka\n\nHave you physically managed ESI & PF files, registers, employee documents, and compliance records Do you have experience handling contract labour / site manpower compliance Do you have knowledge of BOCW (Building & Other Construction Workers) Act compliance Do you have working knowledge of RERA compliance requirements for real estate projects Have you maintained statutory registers related to labour compliance Can you communicate fluently in Kannada with site employees and labour teams Work Location: In person Job Title: Payroll Executive / Statutory Compliance Executive  PF & ESI | Kannada Mandatory\n\nLocation: Bangalore (Onsite)\nExperience: 25 Years\nIndustry Preference: Real Estate / Construction Industry Preferred\nQualification: Any Degree / MBA HR Preferred\n\nCandidate Requirement:\n\nKannada Language Mandatory\n(Should be able to communicate with site employees, labour workforce & local compliance authorities)\n\nJob Overview:\n\nWe are looking for a Payroll & Statutory Compliance Executive with hands-on experience in payroll processing and statutory compliance. The candidate must have practical exposure in PF & ESI filing, documentation, and labour compliance activities, preferably from Real Estate or Construction industry.\n\nKey Responsibilities:\n\nManage monthly payroll processingHandle attendance, salary inputs, deductions & payroll reportsManage statutory compliance:PF Registration & FilingESI Registration & FilingPF / ESI Challan ProcessingStatutory DocumentationPhysically handle PF & ESI filing/documentation workMaintain employee records and compliance filesHandle labour compliance requirementsCoordinate with site teams and workforceSupport HR audits and inspectionsRequired Skills:\n\nHands-on experience in:Payroll ProcessingPF & ESI ComplianceLabour ComplianceEmployee DocumentationPractical knowledge of:EPFOESICStatutory RegistersExperience handling site manpower payroll preferredIndustry Preference:\n\nReal EstateConstructionInfrastructureContract Labour ManagementMandatory Requirements:\n\n Kannada Language Mandatory\n PF & ESI Filing Experience Mandatory\n Physical documentation / office filing experience\n Bangalore candidates preferred\n Immediate Joiners / Short Notice Preferred\n\nCompensation: 35,000.00 - 40,000.00 per month\n\nBenefits:\n\nProvident FundApplication Question(s):\n\nIndustry Experience:Do you have experience working in Real Estate / Construction Industry \n\nPayroll Experience:How many years of experience do you have in Payroll Processing \n\nPayroll Experience:How many years of experience do you have in Payroll Processing  in Bengalore Karnataka\n\nHave you physically managed ESI & PF files, registers, employee documents, and compliance records Do you have experience handling contract labour / site manpower compliance Do you have knowledge of BOCW (Building & Other Construction Workers) Act compliance Do you have working knowledge of RERA compli",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/payroll-executive-real-estate-construction-industry-experience/avillion-infrastructure/19197338?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQYXlyb2xsIEV4ZWN1dGl2ZSAgUmVhbCBFc3RhdGUgLyBDb25zdHJ1Y3Rpb24gSW5kdXN0cnkgRXhwZXJpZW5jZSIsImNvbXBhbnlfbmFtZSI6IkF2aWxsaW9uIEluZnJhc3RydWN0dXJlIiwiaHRpZG9jaWQiOiJvOWFBQVNMTUx5enM4ZE9kQUFBQUFBPT0iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVkUzYVd4WlEwTlNSbVUxWlhkc2JqTk1jUzFsVGxsTFdWbHJkVFEyVERsM0xWVnhVM2RLYlRsSVZXVkdNVjl6Y1VGclpUWXRRVTAxTTNCcGNWcFBjRVJsTjA5a2IxaEVNekZQZUVab2FqSk1TMnhWTVZoYVRVdHNkWEpvVEZoMmRXaFZSbG90Y21ack5rcDVTakJUWVRVd05qSlBNVGd0TTJGQ2JTMXpkMDFVWjJOc2VGWVNGM0JoYkVsaGRUTm1UbUZ1U0hBNE5GQnlOMkpTYjBGWkdpSkJSSE55T1daU1QydGFRVmhLUmtGcVpFWk1TRUpXWTFSWFYzTk1Xa1ZPZW5WUiIsImZjdiI6IjMiLCJmY19pZCI6Im85YUFBU0xNTHl6czhkT2RBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Production-Stalls Construction In-charge",
+      "company_name": "Mermaid Digital",
+      "location": "Bengaluru, Karnataka, India",
+      "via": "Glassdoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Construction+Worker+Bangalore&htidocid=L0lNK_27VV_6gmbEAAAAAA%3D%3D&hl=en-US&shem=epsd1&shndl=37&shmd=H4sIAAAAAAAA_yWOQQrCMBBFcesRXM1a2kYEN7oQVBAVQfAAZZqGNJrOlMwUeirPaMTNX_wH__35ZzbfPxK3o9XAVD4VYxQ4MommfwcXKm2HyTso4coNiMNkO8jkzOyjW-w61UG2xojEyouiBltZ7g2Ta3gyL27kF7XkGTdEVFevN6upGsgvq7tLPYYWTsGHbIdAcHDkMY5pLOCGiVDxjUX-0Qb8AosxzB-xAAAA&shmds=v1_ARwrE22F9YvocZaLYTPSy3mWoqCLu17e9MxslszMpN7wF9LuGw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Construction+Worker+Bangalore&htidocid=L0lNK_27VV_6gmbEAAAAAA%3D%3D",
+      "extensions": [
+        "8 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "8 days ago",
+        "schedule_type": "Full-time",
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.glassdoor.co.in/job-listing/production-stalls-construction-in-charge-mermaid-digital-printing-JV_IC2940587_KO0,40_KE41,65.htm?jl=1007749270388",
+      "job_title": "Production-Stalls Construction In-charge",
+      "description": "Building team and exhibition stall concepts.\nSupervising the Exhibition stall design and construction.\nPre Sales design and costing support to Sales team.\nDeveloping vendors and coordinating for successful completion of every project.\nDeveloping and managing team of expert workers.",
+      "apply_options": [
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/production-stalls-construction-in-charge-mermaid-digital-printing-JV_IC2940587_KO0,40_KE41,65.htm?jl=1007749270388&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/8Ydus2LyqJD8hPz6cSZWMFjzvSpaxJcYhm2wWi7P9a_HBppQvT_i6Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcm9kdWN0aW9uLVN0YWxscyBDb25zdHJ1Y3Rpb24gSW4tY2hhcmdlIiwiY29tcGFueV9uYW1lIjoiTWVybWFpZCBEaWdpdGFsIiwiaHRpZG9jaWQiOiJMMGxOS18yN1ZWXzZnbWJFQUFBQUFBPT0iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTa3M1VGtWc1NtZDFialpLYTNGd05EWkdaMUJmY2tGS1IwRnVabWxMUlMxSFF6UlVOM1owVkROMmVsQk5XV1pRUTJkVGEzbFdSakJuVDJwaGNtMXVSbWhCZHpKWFIzTktZMTg0T1RWSE1sQXlVaTFyV1RoU1kwUnlNek5YT1VWVGFGUldMVmxRWm01WlRFVjRlbmROYzB0QmQyaG9kWFZ2VkZoek5teE5Sek55WjBaTlptTVNGM0JoYkVsaGRUTm1UbUZ1U0hBNE5GQnlOMkpTYjBGWkdpSkJSSE55T1daVVoxQlBWM1p4VmpkU1JtcHpjRFZKYlhkSFFVd3RWM2sxZVRSQiIsImZjdiI6IjMiLCJmY19pZCI6IkwwbE5LXzI3VlZfNmdtYkVBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Payroll Executive \u2013 Real Estate / Construction Industry Experience",
+      "company_name": "Avillion Infrastructure",
+      "location": "Bengaluru, Karnataka, India",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Construction+Worker+Bangalore&htidocid=7EfLxrL1f4Xf2V9aAAAAAA%3D%3D&hl=en-US&shem=epsd1&shndl=37&shmd=H4sIAAAAAAAA_yVOO4oCQRBlU4-wUcWi0yJooJEui6iJmBpITVvO9G5bNVR3y5h5B2_mETyJPZg8eI_36z2_eocd3lS8h9-WbIruSvC6P2BPmKUQMRIY-BEOUZONThjWfEqZ3XKiIXXElmAIGykhEKqtIXtWIpWn73kdYxNmxoTgi6prc7awcjHCVEpr_qQMHRxDjUqNz2vH8WTUFg1X_eni6rz_LJ4VPweSEjiGJXGFPmkawBaVMeI_DrpnDt9WrqIb1QAAAA&shmds=v1_ARwrE20Fqa20W3bFANTc9u6Fh6F1QkSvgqhqQyXMYfS9ZcXj9w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Construction+Worker+Bangalore&htidocid=7EfLxrL1f4Xf2V9aAAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "\u20b935K\u2013\u20b940K a month",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "salary": "\u20b935K\u2013\u20b940K a month",
+        "schedule_type": "Full-time"
+      },
+      "source_link": "https://www.simplyhired.co.in/job/rMxIA42CzBbKy9_FNpMsvJIdUGHZVcgRXYuH88-92t4N0etQyFC_JA",
+      "job_title": "Payroll Executive \u2013 Real Estate / Construction Industry Experience",
+      "description": "Job Title: Payroll Executive / Statutory Compliance Executive \u2013 PF & ESI | Kannada Mandatory\n\nLocation: Bangalore (Onsite)\nExperience: 2\u20135 Years\nIndustry Preference: Real Estate / Construction Industry Preferred\nQualification: Any Degree / MBA HR Preferred\n\nCandidate Requirement:\n\nKannada Language Mandatory\n(Should be able to communicate with site employees, labour workforce & local compliance authorities)\n\nJob Overview:\n\nWe are looking for a Payroll & Statutory Compliance Executive with hands-on experience in payroll processing and statutory compliance. The candidate must have practical exposure in PF & ESI filing, documentation, and labour compliance activities, preferably from Real Estate or Construction industry.\n\nKey Responsibilities:\n\nManage monthly payroll processingHandle attendance, salary inputs, deductions & payroll reportsManage statutory compliance:PF Registration & FilingESI Registration & FilingPF / ESI Challan ProcessingStatutory DocumentationPhysically handle PF & ESI filing/documentation workMaintain employee records and compliance filesHandle labour compliance requirementsCoordinate with site teams and workforceSupport HR audits and inspectionsRequired Skills:\n\nHands-on experience in:Payroll ProcessingPF & ESI ComplianceLabour ComplianceEmployee DocumentationPractical knowledge of:EPFOESICStatutory RegistersExperience handling site manpower payroll preferredIndustry Preference:\n\nReal EstateConstructionInfrastructureContract Labour ManagementMandatory Requirements:\n\n\u2705 Kannada Language Mandatory\n\u2705 PF & ESI Filing Experience Mandatory\n\u2705 Physical documentation / office filing experience\n\u2705 Bangalore candidates preferred\n\u2705 Immediate Joiners / Short Notice Preferred\n\nPay: \u20b935,000.00 - \u20b940,000.00 per month\n\nBenefits:\n\nProvident FundApplication Question(s):\n\nIndustry Experience:Do you have experience working in Real Estate / Construction Industry?\n\nPayroll Experience:How many years of experience do you have in Payroll Processing?\n\nPayroll Experience:How many years of experience do you have in Payroll Processing? in Bengalore Karnataka\n\nHave you physically managed ESI & PF files, registers, employee documents, and compliance records?Do you have experience handling contract labour / site manpower compliance?Do you have knowledge of BOCW (Building & Other Construction Workers) Act compliance?Do you have working knowledge of RERA compliance requirements for real estate projects?Have you maintained statutory registers related to labour compliance?Can you communicate fluently in Kannada with site employees and labour teams?Work Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/rMxIA42CzBbKy9_FNpMsvJIdUGHZVcgRXYuH88-92t4N0etQyFC_JA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/payroll-executive-real-estate-construction-industry-experience-avillion-infrastructure-bengaluru-kar--theirstack-744278283?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/6498214065624580096?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/293036201/payroll-executive-real-estate-construction-industry-experience-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQYXlyb2xsIEV4ZWN1dGl2ZSDigJMgUmVhbCBFc3RhdGUgLyBDb25zdHJ1Y3Rpb24gSW5kdXN0cnkgRXhwZXJpZW5jZSIsImNvbXBhbnlfbmFtZSI6IkF2aWxsaW9uIEluZnJhc3RydWN0dXJlIiwiaHRpZG9jaWQiOiI3RWZMeHJMMWY0WGYyVjlhQUFBQUFBPT0iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbmhOWjNOdWMybEhPR2RaV2tkMU9GZzRaMWxtYW1SeU9WWXpiVUpVYmtoV1NFeDNTV0l0ZGxoRmNsZDNZMmhaTFhWWU1ERmZVVEZpTUVaaVoyUXRZME5pVldWMVUxUnNWWEJHZGxCamRXUTBPV3hDVlRWcFRGZDFZakZwUjFnMGRuTnZTbFJPT1Uxa1IyYzBaSGxRZERkVU9Hd3pMWE5KTWtwV1dFRmtjV1p5TlZobWQwb1NGM0JoYkVsaGRUTm1UbUZ1U0hBNE5GQnlOMkpTYjBGWkdpSkJSSE55T1daVFIyRjZTMFpLVW1SRmExUmFkM2wyUkZkeVVuVmZNRW8wTFd0MyIsImZjdiI6IjMiLCJmY19pZCI6IjdFZkx4ckwxZjRYZjJWOWFBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Site Supervisor (Civil)",
+      "company_name": "Mahidhara Projects Pvt Ltd",
+      "location": "Bengaluru, Karnataka, India",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Construction+Worker+Bangalore&htidocid=jUMlryRACbSvkcMLAAAAAA%3D%3D&hl=en-US&shem=epsd1&shndl=37&shmd=H4sIAAAAAAAA_xXJOw6CQBAA0NhyBKsp1SAYEwu108L4S0g4ABmWybK47pCdgXAkj6k2r3nJZ5ZkpVOCcugpjk44wuLsRueXsIYb1yCE0bTAAS7M1tP82Kr2cshzEZ9ZUVRnMsPvnAPVPOUd1_KnkhYj9R6Vqu1uM2V9sKv9E1vX_AKhiNyRUYFiVHhoAy7AiYJFP8QhhTvGgIovTOEaGodfojD-LKsAAAA&shmds=v1_ARwrE22482j1tNk6792sXNItaf8gmROyGWKgMukz6u5CGBtnqA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Construction+Worker+Bangalore&htidocid=jUMlryRACbSvkcMLAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6a48a9920676dc0f4b341de5/images/rLn_gynaVWRGXeVkIrk8xOUxmx_FvwM-oG1RbEw15Mc.jpeg",
+      "extensions": [
+        "7 days ago",
+        "\u20b940K\u2013\u20b950K a month",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "7 days ago",
+        "salary": "\u20b940K\u2013\u20b950K a month",
+        "schedule_type": "Full-time"
+      },
+      "source_link": "https://www.simplyhired.co.in/job/BWwZpx7KOMPfNx4q3MsGpN0GWbdI1YGrvHkhTC5RhoqTvWPJvByJrA",
+      "job_title": "Site Supervisor (Civil)",
+      "description": "Job Title: Site Supervisor\nDepartment: Construction / Projects\nIndustry: Real Estate & Construction\n\nJob Summary\n\nThe Site Supervisor is responsible for supervising day-to-day construction activities, ensuring work is carried out according to approved drawings, project specifications, quality standards, safety regulations, and project schedules. The role involves coordinating with engineers, contractors, subcontractors, and labor teams to ensure efficient project execution.\n\nExperience : 8 to 12 years\n\nKey Responsibilities Site Supervision\n\nSupervise daily construction activities and monitor work progress.Ensure construction work is executed according to approved drawings, specifications, and quality standards.Allocate work to contractors, subcontractors, and labor teams based on project priorities.Monitor productivity and ensure timely completion of assigned tasks.Resolve day-to-day site issues in coordination with engineers and project management.Coordination\n\nCoordinate with civil, MEP, architectural, and finishing teams to ensure smooth project execution.Liaise with consultants, vendors, and subcontractors for work planning and execution.Ensure availability of materials, equipment, and manpower before commencing work.Participate in daily and weekly site coordination meetings.Quality Control\n\nInspect ongoing work to ensure compliance with project specifications and quality requirements.Identify defects or non-conforming work and ensure corrective actions are implemented.Assist in inspections conducted by consultants and clients.Ensure proper workmanship and adherence to approved construction methods.Health, Safety & Environment (HSE)\n\nEnforce company safety policies and site safety regulations.Ensure workers use appropriate Personal Protective Equipment (PPE).Identify unsafe conditions and report potential hazards immediately.Support toolbox talks and safety awareness programs.Maintain a safe and clean working environment.Material & Resource Management\n\nMonitor material usage and minimize wastage.Coordinate with the store department for timely availability of construction materials.Verify receipt and proper storage of materials at the site.Monitor equipment utilization and report maintenance requirements.Documentation & Reporting\n\nMaintain daily site activity reports and labor attendance records.Report work progress, delays, and site issues to the Site Engineer or Project Manager.Maintain records of inspections, material usage, and completed work.Assist in preparing progress reports and work schedules.Required Qualifications\n\nDiploma or Bachelor's degree in Civil Engineering or a related field.3\u20138 years of experience as a Site Supervisor in the real estate and construction industry.Experience in residential, commercial, industrial, or infrastructure projects is preferred.Technical Skills\n\nKnowledge of construction methods, materials, and site execution.Ability to read and interpret construction drawings and specifications.Basic knowledge of quality control and construction standards.Familiarity with safety regulations and construction site practices.Proficiency in Microsoft Office (Excel, Word) and basic reporting.Knowledge of AutoCAD is an added advantage.Soft Skills\n\nStrong leadership and team supervision skills.Good communication and interpersonal skills.Problem-solving and decision-making ability.Time management and organizational skills.Attention to detail and quality focus.Ability to work under pressure and meet project deadlines.If interested, Kindly reach me out on\n\nCont : 9154366046\n\nEmail : managerhrd@mahidharaprojects.com\n\nPay: \u20b940,000.00 - \u20b950,000.00 per month\n\nBenefits:\n\nCell phone reimbursementFood providedPaid sick timeProvident FundWork Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/BWwZpx7KOMPfNx4q3MsGpN0GWbdI1YGrvHkhTC5RhoqTvWPJvByJrA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/site-supervisor-civil-capital-enterprises-bangalore-city-bengaluru-karnataka--theirstack-690292507?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/2650838162082889728?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/288337149/site-supervisor-civil-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTaXRlIFN1cGVydmlzb3IgKENpdmlsKSIsImNvbXBhbnlfbmFtZSI6Ik1haGlkaGFyYSBQcm9qZWN0cyBQdnQgTHRkIiwiaHRpZG9jaWQiOiJqVU1scnlSQUNiU3ZrY01MQUFBQUFBPT0iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUSGRSYkdOSVdXeHpSVnBIV0VoMmIzSkdWWGh3VEdwb1EwOXVURUowVUdKZlFVaENTakkxYURaYVFtdFJYekZHTm1SdFlrZGlWWEpxTTBOM2VUZGxWbkJxWm1aUmRFZzNTMGhLU1dwWWJsVnJjbGQyYUZOSlUwcFZOVjlXYjFvME5IRkZUM1ZQUTNRemREZG1hR1pKVVRKTE1VeFdUbWwwY25nMFNqUnZNRU5QVjJoSloyMFNGM0JoYkVsaGRUTm1UbUZ1U0hBNE5GQnlOMkpTYjBGWkdpSkJSSE55T1daVU1qVnRiVlZoUVRaQ01GbDRZbHBEZW0wMVVHTjFTbWx6VVVSQiIsImZjdiI6IjMiLCJmY19pZCI6ImpVTWxyeVJBQ2JTdmtjTUxBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSURDdUlDUVVwcFZEUjBTM3BIV0dSU2NVSXhjRWxJTkRkMGFXcFlXV3BVZFRKc2FFVnNNMHM1YjJkNFZtVlRhMHhWZVhWbmFDMVVjVkpaY1Y5MU4zb3dlUzFOZEVSU1J6Qm9XWFpaTkRndFVFeHJSVnBZUWt4a1ZEbE5RalpGTVdwQ1FVVk5SVE51YzFVM1VsRlVZakJKUVdSUFpYSnNaek5mTm1kTVltRnJVM2xzZUZCcWFEQm9ha1JIT1dvMGRIaFlOVXRGTmtwRU1uVXRlbEIwYm5sUVJtVlJTRXBNYXpCbVJVSmlTR00yWkhGR2VsSk5kR3hWVWt0Mk9HNU5XVk5qVGxVemRXeEdaR3RTV1ZkZk5uVnNURTh4WkZKNWFEbHdVbll0VGsxTlUyOTBUemxDTkZCU1kySlRUMHd3WmxGNlFUQlpNSGx3TmpoRGRuQTNhMDlZYkdKVVpUTkJia3QyUzBwRVlsbGFORjlxWldzeGEwTlFjV0ZOUTJOc1UyVmFiMTlwU0RaWmJubFdTR05KT0VFd1JGOTFaRUpGY25ReGRIUnJhR2RUWTFVeFRXTlllVk16ZHpkcU9XSldOak5xYTBKdVMwTldWVXhVYUVSalIyZEdhVFJMTWxGUkVoZHdZV3hKWVhVelprNWhia2h3T0RSUWNqZGlVbTlCV1JvaVFVUnpjamxtVWpaUFZURnplRWMyTTJkSWRYSndTVlZ0WHpsU2VXcFpTVTVrZHciLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&next_page_token=eyJmYyI6IkVxSURDdUlDUVVwcFZEUjBTM3BIV0dSU2NVSXhjRWxJTkRkMGFXcFlXV3BVZFRKc2FFVnNNMHM1YjJkNFZtVlRhMHhWZVhWbmFDMVVjVkpaY1Y5MU4zb3dlUzFOZEVSU1J6Qm9XWFpaTkRndFVFeHJSVnBZUWt4a1ZEbE5RalpGTVdwQ1FVVk5SVE51YzFVM1VsRlVZakJKUVdSUFpYSnNaek5mTm1kTVltRnJVM2xzZUZCcWFEQm9ha1JIT1dvMGRIaFlOVXRGTmtwRU1uVXRlbEIwYm5sUVJtVlJTRXBNYXpCbVJVSmlTR00yWkhGR2VsSk5kR3hWVWt0Mk9HNU5XVk5qVGxVemRXeEdaR3RTV1ZkZk5uVnNURTh4WkZKNWFEbHdVbll0VGsxTlUyOTBUemxDTkZCU1kySlRUMHd3WmxGNlFUQlpNSGx3TmpoRGRuQTNhMDlZYkdKVVpUTkJia3QyUzBwRVlsbGFORjlxWldzeGEwTlFjV0ZOUTJOc1UyVmFiMTlwU0RaWmJubFdTR05KT0VFd1JGOTFaRUpGY25ReGRIUnJhR2RUWTFVeFRXTlllVk16ZHpkcU9XSldOak5xYTBKdVMwTldWVXhVYUVSalIyZEdhVFJMTWxGUkVoZHdZV3hKWVhVelprNWhia2h3T0RSUWNqZGlVbTlCV1JvaVFVUnpjamxtVWpaUFZURnplRWMyTTJkSWRYSndTVlZ0WHpsU2VXcFpTVTVrZHciLCJmY3YiOiIzIn0%3D&q=Construction+Worker+Bangalore"
+  }
+}

@@ -1,0 +1,67 @@
+"use client";
+
+import LiveFeed from "@/components/mission-control/LiveFeed";
+import Sidebar from "@/components/mission-control/Sidebar";
+import MissionHero from "@/components/mission-control/MissionHero";
+import TopStats from "@/components/mission-control/TopStats";
+import JobsPanel from "@/components/mission-control/JobsPanel";
+import HousingPanel from "@/components/mission-control/HousingPanel";
+import BudgetWidget from "@/components/mission-control/BudgetWidget";
+import InsightsWidget from "@/components/mission-control/InsightsWidget";
+import Timeline from "@/components/mission-control/Timeline";
+import QuickActions from "@/components/mission-control/QuickActions";
+
+export default function MissionControlPage() {
+  return (
+    <main className="min-h-screen bg-[#060B14] text-white">
+
+      <div className="mx-auto flex max-w-[1700px] gap-6 p-6">
+
+        <Sidebar />
+
+        <div className="flex-1 space-y-6">
+
+          <MissionHero
+  transition={{
+    occupation: "Fashion Designer",
+    currentCity: "Kanpur",
+    destinationCity: "Bengaluru",
+    familyMembers: "None",
+  }}
+/>
+
+          <TopStats/>
+
+          <div className="grid grid-cols-3 gap-6">
+
+  <div className="col-span-2 space-y-6">
+
+    <JobsPanel />
+
+    <HousingPanel />
+
+    <LiveFeed />
+
+  </div>
+
+  <div className="space-y-6">
+
+    <BudgetWidget />
+
+    <InsightsWidget />
+
+    <QuickActions />
+
+  </div>
+
+</div>
+
+          <Timeline />
+
+        </div>
+
+      </div>
+
+    </main>
+  );
+}

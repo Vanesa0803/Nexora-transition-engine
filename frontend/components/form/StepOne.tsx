@@ -5,7 +5,7 @@ import SectionTitle from "./SectionTitle";
 type StepOneProps = {
   data: {
     occupation: string;
-    income: string;
+    monthlyIncome: string;
     familyMembers: string;
   };
   updateData: (field: string, value: string) => void;
@@ -62,18 +62,19 @@ export default function StepOne({
               type="number"
               value={data.income}
               onChange={(value) =>
-                updateData("income", value)
+                updateData("monthlyIncome", value)
               }
             />
 
             <InputField
-              label="Family Members"
-              placeholder="Example: Wife + 2 Children"
-              value={data.familyMembers}
-              onChange={(value) =>
-                updateData("familyMembers", value)
-              }
-            />
+  label="Number of Family Members"
+  placeholder="2"
+  type="number"
+  value={data.familyMembers}
+  onChange={(value) =>
+    updateData("familyMembers", value)
+  }
+/>
 
           </div>
 

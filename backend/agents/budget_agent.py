@@ -3,16 +3,15 @@ from schemas.transition import TransitionRequest
 
 def run_budget_agent(data: TransitionRequest):
 
-    income = int(data.income)
-    housing = int(data.housingBudget)
+    income = data.monthlyIncome
 
-    remaining = income - housing
+    remaining = income * 0.60
 
-    if remaining >= 12000:
+    if remaining >= 20000:
         risk = "Low"
         priority = "Healthy Budget"
 
-    elif remaining >= 7000:
+    elif remaining >= 10000:
         risk = "Medium"
         priority = "Manage Spending Carefully"
 
@@ -21,14 +20,14 @@ def run_budget_agent(data: TransitionRequest):
         priority = "Budget is Very Tight"
 
     return {
-        "monthlyIncome": f"₹{income}",
-        "housingCost": f"₹{housing}",
-        "remainingBudget": f"₹{remaining}",
+        "monthlyIncome": income,
+        "estimatedExpenses": income - remaining,
+        "remainingBudget": remaining,
         "risk": risk,
         "priority": priority,
         "recommendations": [
             "Avoid spending more than 40% on rent.",
-            "Maintain an emergency fund.",
-            "Track monthly expenses carefully."
+            "Maintain emergency savings.",
+            "Track monthly expenses."
         ]
     }

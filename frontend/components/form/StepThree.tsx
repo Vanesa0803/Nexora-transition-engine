@@ -5,7 +5,7 @@ type StepThreeProps = {
   data: {
     occupation: string;
     income: string;
-    familyMembers: string;
+    familyMembers: int;
     currentCity: string;
     destinationCity: string;
     housingBudget: string;
@@ -57,7 +57,7 @@ export default function StepThree({
           <SummaryItem
             icon="💰"
             label="Monthly Income"
-            value={`₹${data.income}`}
+            value={`₹${data.monthlyIncome}`}
           />
 
           <SummaryItem

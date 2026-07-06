@@ -12,11 +12,11 @@ export default function TransitionWizard() {
   const router = useRouter();
   const [transitionData, setTransitionData] = useState({
   occupation: "",
-  income: "",
+  monthlyIncome: "",
+  savings: "",
   familyMembers: "",
   currentCity: "",
   destinationCity: "",
-  housingBudget: "",
 });
 
   const nextStep = async () => {
@@ -76,23 +76,23 @@ router.push("/loading");
       <div className="my-10">
         {step === 1 && (
   <StepOne
-    data={{
-      occupation: transitionData.occupation,
-      income: transitionData.income,
-      familyMembers: transitionData.familyMembers,
-    }}
-    updateData={updateData}
-  />
+  data={{
+    occupation: transitionData.occupation,
+    monthlyIncome: transitionData.monthlyIncome,
+    familyMembers: transitionData.familyMembers,
+  }}
+  updateData={updateData}
+/>
 )}
         {step === 2 && (
   <StepTwo
-    data={{
-      currentCity: transitionData.currentCity,
-      destinationCity: transitionData.destinationCity,
-      housingBudget: transitionData.housingBudget,
-    }}
-    updateData={updateData}
-  />
+  data={{
+    currentCity: transitionData.currentCity,
+    destinationCity: transitionData.destinationCity,
+    savings: transitionData.savings,
+  }}
+  updateData={updateData}
+/>
 )}
         {step === 3 && (
   <StepThree
@@ -115,9 +115,7 @@ router.push("/loading");
   onClick={nextStep}
   className="rounded-lg bg-blue-600 px-6 py-2 hover:bg-blue-700"
 >
-  {step === 3
-  ? "🚀 Launch My Mission"
-  : "Continue →"}
+  {step === 3 ? "🚀 Launch Transition Engine" : "Next →"}
 </button>
 
       </div>

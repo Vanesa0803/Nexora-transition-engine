@@ -1,6 +1,5 @@
 from services.job_service import search_jobs
 
-
 def run_job_agent(data):
     try:
         return search_jobs(

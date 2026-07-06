@@ -3,50 +3,34 @@ from schemas.transition import TransitionRequest
 
 def run_education_agent(data: TransitionRequest):
 
-    family = data.familyMembers.lower()
-
-    if "child" not in family and "children" not in family:
+    if data.familyMembers <= 1:
         return {
             "required": False,
-            "message": "No school-age children detected."
+            "message": "No school planning required."
         }
 
-    city = data.destinationCity.lower()
-
     schools = {
-        "bangalore": [
-            {
-                "name": "National Public School",
-                "area": "Whitefield"
-            },
-            {
-                "name": "Delhi Public School",
-                "area": "Electronic City"
-            }
+        "Bengaluru": [
+            "Delhi Public School, Whitefield",
+            "National Public School, Indiranagar",
+            "Orchids International School"
         ],
-        "hyderabad": [
-            {
-                "name": "Oakridge International School",
-                "area": "Gachibowli"
-            },
-            {
-                "name": "Delhi Public School",
-                "area": "Miyapur"
-            }
+        "Hyderabad": [
+            "Chirec International School",
+            "Oakridge International School",
+            "Delhi Public School Hyderabad"
         ],
-        "delhi": [
-            {
-                "name": "Modern School",
-                "area": "Barakhamba Road"
-            },
-            {
-                "name": "Delhi Public School RK Puram",
-                "area": "RK Puram"
-            }
+        "Delhi": [
+            "Modern School",
+            "Delhi Public School RK Puram",
+            "Bal Bharati Public School"
         ]
     }
 
     return {
         "required": True,
-        "schools": schools.get(city, [])
+        "recommendedSchools": schools.get(
+            data.destinationCity,
+            ["Search nearby CBSE schools"]
+        )
     }

@@ -3,7 +3,7 @@ from schemas.transition import TransitionRequest
 
 def run_government_scheme_agent(data: TransitionRequest):
 
-    income = int(data.income)
+    income = int(data.monthlyIncome)
     occupation = data.occupation.lower()
 
     schemes = []

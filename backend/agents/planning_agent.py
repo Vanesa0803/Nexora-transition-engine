@@ -6,10 +6,9 @@ def run_planning_agent(data: TransitionRequest):
     recommendations = []
 
     risk = "Low"
-
     priority = "Employment"
 
-    if int(data.income) < 20000:
+    if data.monthlyIncome < 30000:
         recommendations.append(
             "Prioritize affordable shared accommodation."
         )
@@ -23,12 +22,12 @@ def run_planning_agent(data: TransitionRequest):
             "Explore family-friendly rental housing."
         )
         recommendations.append(
-            "Build a 3-month financial buffer."
+            "Build a 3-month emergency fund."
         )
 
-    if "child" in data.familyMembers.lower():
+    if data.familyMembers > 2:
         recommendations.append(
-            "Search for nearby schools before relocating."
+            "Look for schools and family healthcare nearby."
         )
 
     recommendations.append(
@@ -36,22 +35,14 @@ def run_planning_agent(data: TransitionRequest):
     )
 
     recommendations.append(
-        f"Look for {data.occupation} opportunities in {data.destinationCity}."
+        f"Search for {data.occupation} jobs in {data.destinationCity}."
     )
 
     return {
         "agent": "Planning Agent",
-
-        "summary":
-            f"{data.occupation} relocating from "
-            f"{data.currentCity} to {data.destinationCity}.",
-
+        "summary": f"{data.occupation} relocating from {data.currentCity} to {data.destinationCity}.",
         "priority": priority,
-
         "risk": risk,
-
-        "estimatedBudget":
-            f"₹{data.housingBudget} housing + daily expenses",
-
+        "estimatedBudget": f"Income ₹{data.monthlyIncome}/month",
         "recommendations": recommendations
     }

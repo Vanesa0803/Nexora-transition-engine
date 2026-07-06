@@ -1,5 +1,7 @@
 "use client";
 
+import { auth } from "@/lib/firebase";
+import { signOut } from "firebase/auth";
 import { useEffect, useState } from "react";
 
 type Job = {
@@ -11,6 +13,7 @@ type Job = {
 };
 
 export default function DashboardPage() {
+  const user = auth.currentUser;
   const [jobs, setJobs] = useState<any[]>([]);
   const [transition, setTransition] = useState<any>(null);
   const [loading, setLoading] = useState(true);
@@ -45,9 +48,40 @@ export default function DashboardPage() {
     <main className="min-h-screen bg-black text-white p-10">
       <div className="max-w-5xl mx-auto">
 
-        <h1 className="text-4xl font-bold mb-8">
-          🚀 Your Transition Dashboard
-        </h1>
+        <div className="flex justify-between items-center mb-10">
+
+  <div className="flex items-center gap-4">
+
+    <img
+      src={user?.photoURL || ""}
+      className="w-16 h-16 rounded-full"
+    />
+
+    <div>
+
+      <h1 className="text-4xl font-bold">
+        Welcome {user?.displayName}
+      </h1>
+
+      <p className="text-zinc-400">
+        {user?.email}
+      </p>
+
+    </div>
+
+  </div>
+
+  <button
+    onClick={async () => {
+      await signOut(auth);
+      window.location.href = "/";
+    }}
+    className="bg-red-600 hover:bg-red-700 px-5 py-3 rounded-xl"
+  >
+    Logout
+  </button>
+
+</div>
 
         {transition && (
 

@@ -1,96 +1,71 @@
-const homes = [
-  {
-    area: "Koramangala",
-    rent: "₹18,000/mo",
-    rating: "4.8",
-    image:
-      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800",
-  },
-  {
-    area: "Indiranagar",
-    rent: "₹22,000/mo",
-    rating: "4.9",
-    image:
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800",
-  },
-];
+type House = {
+  title: string;
+  area: string;
+  source: string;
+  link: string;
+  snippet: string;
+};
 
-export default function HousingPanel() {
+type HousingPanelProps = {
+  houses?: House[];
+};
+
+export default function HousingPanel({ houses = [] }: HousingPanelProps) {
   return (
     <div className="rounded-3xl border border-white/10 bg-[#111827] p-6">
-
       <div className="flex items-center justify-between">
-
         <div>
-
-          <h2 className="text-2xl font-bold">
+          <h2 className="text-2xl font-bold text-white">
             🏠 Housing Intelligence
           </h2>
 
           <p className="text-zinc-400">
-            Best AI recommended properties
+            {houses.length} live listings found
           </p>
-
         </div>
 
-        <span className="rounded-full bg-cyan-500/20 px-4 py-2 text-cyan-400 font-semibold">
-          12 Matches
+        <span className="rounded-full bg-green-500/20 px-4 py-2 font-semibold text-green-400">
+          LIVE
         </span>
-
       </div>
 
-      <div className="mt-6 space-y-5">
-
-        {homes.map((home) => (
-
-          <div
-            key={home.area}
-            className="overflow-hidden rounded-2xl border border-white/5 bg-[#182233] hover:border-cyan-500 transition"
-          >
-
-            <img
-              src={home.image}
-              className="h-44 w-full object-cover"
-            />
-
-            <div className="p-5">
-
-              <div className="flex items-center justify-between">
-
-                <div>
-
-                  <h3 className="text-xl font-bold text-white">
-                    {home.area}
-                  </h3>
-
-                  <p className="text-zinc-400">
-                    Bangalore
-                  </p>
-
-                </div>
-
-                <div className="text-right">
-
-                  <h2 className="font-bold text-green-400">
-                    {home.rent}
-                  </h2>
-
-                  <p className="text-yellow-400">
-                    ⭐ {home.rating}
-                  </p>
-
-                </div>
-
-              </div>
-
-            </div>
-
+      <div className="mt-6 space-y-4">
+        {houses.length === 0 ? (
+          <div className="rounded-2xl border border-white/10 p-6 text-center text-zinc-400">
+            No houses found.
           </div>
+        ) : (
+          houses.map((house, index) => (
+            <div
+              key={index}
+              className="rounded-2xl border border-white/5 bg-[#182233] p-5 transition hover:border-cyan-500 hover:scale-[1.01]"
+            >
+              <h3 className="text-lg font-bold text-white">
+                {house.title}
+              </h3>
 
-        ))}
+              <p className="mt-2 text-zinc-400">
+                {house.snippet}
+              </p>
 
+              <div className="mt-4 flex items-center justify-between">
+                <span className="text-cyan-400">
+                  {house.source}
+                </span>
+
+                <a
+                  href={house.link}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="rounded-xl bg-cyan-500 px-4 py-2 font-semibold text-black hover:bg-cyan-400"
+                >
+                  View →
+                </a>
+              </div>
+            </div>
+          ))
+        )}
       </div>
-
     </div>
   );
 }

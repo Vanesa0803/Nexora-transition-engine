@@ -6,7 +6,7 @@ type StepTwoProps = {
   data: {
     currentCity: string;
     destinationCity: string;
-    housingBudget: string;
+    savings: string;
   };
   updateData: (field: string, value: string) => void;
 };
@@ -68,15 +68,14 @@ export default function StepTwo({
           />
 
           <InputField
-            label="Monthly Housing Budget"
-            placeholder="₹8,000"
-            type="number"
-            value={data.housingBudget}
-            onChange={(value) =>
-              updateData("housingBudget", value)
-            }
-          />
-
+  label="Current Savings"
+  placeholder="200000"
+  type="number"
+  value={data.savings}
+  onChange={(value) =>
+    updateData("savings", value)
+  }
+/>
         </div>
 
       </FormCard>

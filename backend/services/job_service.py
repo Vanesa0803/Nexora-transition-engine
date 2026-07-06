@@ -1,11 +1,17 @@
 from serpapi import GoogleSearch
 from config import SERPAPI_KEY
+from services.occupation_service import normalize_occupation
 
 
 def search_jobs(query: str, location: str):
+    normalized_query = normalize_occupation(query)
+
+    print("Original:", query)
+    print("Normalized:", normalized_query)
+
     params = {
         "engine": "google_jobs",
-        "q": f"{query} {location}",
+        "q": f"{normalized_query} {location}",
         "api_key": SERPAPI_KEY
     }
 
@@ -15,8 +21,8 @@ def search_jobs(query: str, location: str):
     jobs = []
 
 
-    print(results.keys())
-    print(results.get("jobs_results"))
+    print("FULL RESPONSE:")
+    print(results)
 
     for job in results.get("jobs_results", [])[:5]:
 

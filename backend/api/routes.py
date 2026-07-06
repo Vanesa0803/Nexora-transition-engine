@@ -1,5 +1,7 @@
 from fastapi import APIRouter
 
+from services.housing_service import search_houses
+
 from concurrent.futures import ThreadPoolExecutor
 from agents.negotiation_agent import run_negotiation_agent
 from agents.healthcare_agent import run_healthcare_agent
@@ -13,6 +15,12 @@ from agents.job_agent import run_job_agent
 from agents.government_scheme_agent import run_government_scheme_agent
 
 router = APIRouter()
+
+
+
+@router.get("/housing")
+def get_housing(city: str):
+    return search_houses(city)
 
 
 @router.post("/plan")
@@ -63,3 +71,5 @@ def create_plan(request: TransitionRequest):
     planning["finalRecommendation"] = negotiation
 
     return planning
+
+    

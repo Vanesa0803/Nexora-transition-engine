@@ -1,6 +1,14 @@
-export default function InsightsWidget() {
+type Props = {
+  insights: any;
+};
+
+export default function InsightsWidget({ insights }: Props) {
+  if (!insights) {
+    return null;
+  }
+
   return (
-    <div className="rounded-3xl border border-cyan-500/20 bg-[#111827] p-6">
+    <div className="rounded-3xl border border-cyan-500/20 bg-white/5 backdrop-blur-xl p-6">
 
       <h2 className="text-2xl font-bold text-white">
         🧠 AI Insights
@@ -10,25 +18,21 @@ export default function InsightsWidget() {
 
         <div className="rounded-2xl bg-[#182233] p-5">
           <p className="text-sm text-zinc-400">
-            Success Probability
+            Risk Level
           </p>
 
-          <h2 className="mt-2 text-4xl font-bold text-green-400">
-            94%
+          <h2 className="mt-2 text-4xl font-bold text-red-400">
+            {insights.risk}
           </h2>
-
-          <p className="mt-2 text-zinc-400">
-            Very high chance of a successful relocation.
-          </p>
         </div>
 
         <div className="rounded-2xl bg-[#182233] p-5">
           <p className="text-sm text-zinc-400">
-            Biggest Risk
+            Priority
           </p>
 
-          <h2 className="mt-2 text-xl font-bold text-red-400">
-            Housing availability
+          <h2 className="mt-2 text-xl font-bold text-cyan-400">
+            {insights.priority}
           </h2>
         </div>
 
@@ -38,7 +42,7 @@ export default function InsightsWidget() {
           </p>
 
           <p className="mt-2 text-zinc-200">
-            Secure accommodation before accepting the offer to reduce relocation risk.
+            {insights.recommendations?.[0]}
           </p>
         </div>
 

@@ -1,6 +1,5 @@
 from pydantic import BaseModel
 
-
 class TransitionRequest(BaseModel):
     occupation: str
 
@@ -11,3 +10,5 @@ class TransitionRequest(BaseModel):
     savings: int
 
     familyMembers: int
+    housingBudget: int
+    educationRequirement: str

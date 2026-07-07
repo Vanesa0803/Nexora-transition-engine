@@ -7,7 +7,7 @@ const logs = [
   "📍 Analysing relocation strategy...",
   "💼 Searching jobs...",
   "🏠 Finding nearby housing...",
-  "🏥 Looking for hospitals...",
+  
   "🎓 Checking schools...",
   "💰 Optimising budget...",
   "⚠️ Calculating risks...",
@@ -34,7 +34,7 @@ export default function LiveFeed() {
   }, []);
 
   return (
-    <div className="rounded-3xl border border-cyan-500/20 bg-[#111827] p-6">
+    <div className="rounded-3xl border border-cyan-500/20 bg-[#111827] p-8 min-h-[420px]">
 
       <h2 className="text-2xl font-bold text-white">
         🤖 Live Mission Feed

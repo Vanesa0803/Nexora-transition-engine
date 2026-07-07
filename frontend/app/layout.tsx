@@ -7,7 +7,7 @@ const geist = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "NEXORA | Mission to Transition",
+  title: "TRANSIFY | Mission to Transition",
   description: "AI-powered relocation command center",
 };
 

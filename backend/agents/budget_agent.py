@@ -22,6 +22,7 @@ def run_budget_agent(data: TransitionRequest):
     return {
         "monthlyIncome": income,
         "estimatedExpenses": income - remaining,
+        "housingBudget": data.housingBudget,
         "remainingBudget": remaining,
         "risk": risk,
         "priority": priority,

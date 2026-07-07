@@ -4,11 +4,13 @@ import SectionTitle from "./SectionTitle";
 type StepThreeProps = {
   data: {
     occupation: string;
-    income: string;
-    familyMembers: int;
+    monthlyIncome: string;
+    savings: string;
+    housingBudget: string;
+    familyMembers: string;
+    educationRequirement: string;
     currentCity: string;
     destinationCity: string;
-    housingBudget: string;
   };
 };
 
@@ -17,40 +19,17 @@ export default function StepThree({
 }: StepThreeProps) {
   return (
     <div className="space-y-8">
-
       <SectionTitle
         title="🚀 Mission Ready"
-        subtitle="NEXORA has everything needed to launch your personalized transition strategy."
+        subtitle="Review your details before launching TRANSIFY."
       />
 
       <FormCard>
-
-        <div className="mb-8 flex items-center gap-4">
-
-          <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-green-500/20 text-3xl">
-            ✅
-          </div>
-
-          <div>
-
-            <h2 className="text-2xl font-bold text-white">
-              Mission Summary
-            </h2>
-
-            <p className="text-zinc-400">
-              Please verify your details before our AI agents begin
-              analyzing your transition.
-            </p>
-
-          </div>
-
-        </div>
-
         <div className="space-y-5">
 
           <SummaryItem
             icon="💼"
-            label="Profession"
+            label="Occupation"
             value={data.occupation}
           />
 
@@ -61,9 +40,21 @@ export default function StepThree({
           />
 
           <SummaryItem
-            icon="👨‍👩‍👧"
-            label="Family"
-            value={data.familyMembers}
+            icon="💳"
+            label="Savings"
+            value={`₹${data.savings}`}
+          />
+
+          <SummaryItem
+            icon="🏠"
+            label="Housing Budget"
+            value={`₹${data.housingBudget}`}
+          />
+
+          <SummaryItem
+            icon="🎓"
+            label="Education Requirement"
+            value={data.educationRequirement}
           />
 
           <SummaryItem
@@ -74,49 +65,24 @@ export default function StepThree({
 
           <SummaryItem
             icon="🎯"
-            label="Destination"
+            label="Destination City"
             value={data.destinationCity}
           />
 
-          <SummaryItem
-            icon="🏠"
-            label="Housing Budget"
-            value={`₹${data.housingBudget}`}
-          />
-
         </div>
-
       </FormCard>
 
       <div className="rounded-2xl border border-green-500/20 bg-green-500/10 p-6">
+        <h3 className="text-xl font-bold text-green-300">
+          🤖 AI Agents Ready
+        </h3>
 
-        <div className="flex gap-4">
-
-          <div className="text-4xl">
-            🤖
-          </div>
-
-          <div>
-
-            <h3 className="text-xl font-bold text-green-300">
-              AI Agents Ready
-            </h3>
-
-            <p className="mt-3 text-zinc-300">
-
-              Once you launch this mission, NEXORA will coordinate
-              eight specialized AI agents to analyze your relocation,
-              discover opportunities, evaluate risks and generate one
-              personalized transition plan within seconds.
-
-            </p>
-
-          </div>
-
-        </div>
-
+        <p className="mt-3 text-zinc-300">
+          TRANSIFY will now analyze your relocation using multiple AI
+          agents to recommend jobs, housing, budgeting, education,
+          healthcare and government schemes.
+        </p>
       </div>
-
     </div>
   );
 }
@@ -128,27 +94,18 @@ function SummaryItem({
 }: {
   icon: string;
   label: string;
-  value: string;
+  value: string | number;
 }) {
   return (
     <div className="flex items-center justify-between rounded-xl bg-zinc-800 p-5">
-
       <div className="flex items-center gap-4">
-
-        <span className="text-2xl">
-          {icon}
-        </span>
-
-        <span className="text-zinc-300">
-          {label}
-        </span>
-
+        <span className="text-2xl">{icon}</span>
+        <span className="text-zinc-300">{label}</span>
       </div>
 
       <span className="font-semibold text-white">
         {value || "-"}
       </span>
-
     </div>
   );
 }

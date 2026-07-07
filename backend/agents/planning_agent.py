@@ -8,6 +8,7 @@ def run_planning_agent(data: TransitionRequest):
     risk = "Low"
     priority = "Employment"
 
+    # Income Analysis
     if data.monthlyIncome < 30000:
         recommendations.append(
             "Prioritize affordable shared accommodation."
@@ -16,7 +17,6 @@ def run_planning_agent(data: TransitionRequest):
             "Maintain at least one month of emergency savings."
         )
         risk = "High"
-
     else:
         recommendations.append(
             "Explore family-friendly rental housing."
@@ -25,15 +25,38 @@ def run_planning_agent(data: TransitionRequest):
             "Build a 3-month emergency fund."
         )
 
-    if data.familyMembers > 2:
+    # Family Size
+    if data.familyMembers >= 3:
         recommendations.append(
-            "Look for schools and family healthcare nearby."
+            "Consider a 2BHK or larger house for your family."
+        )
+    else:
+        recommendations.append(
+            "A 1BHK apartment should be sufficient."
         )
 
+    # Education Planning
+    if data.educationRequirement == "School":
+        recommendations.append(
+            "Find nearby schools before relocating."
+        )
+
+    elif data.educationRequirement == "College":
+        recommendations.append(
+            "Explore colleges and universities in the destination city."
+        )
+
+    elif data.educationRequirement == "Both":
+        recommendations.append(
+            "Plan for both school and higher education options."
+        )
+
+    # Government
     recommendations.append(
         "Complete local government registration after arrival."
     )
 
+    # Jobs
     recommendations.append(
         f"Search for {data.occupation} jobs in {data.destinationCity}."
     )

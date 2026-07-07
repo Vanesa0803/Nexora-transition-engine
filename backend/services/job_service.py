@@ -18,6 +18,13 @@ def search_jobs(query: str, location: str):
     search = GoogleSearch(params)
     results = search.get_dict()
 
+    search = GoogleSearch(params)
+    results = search.get_dict()
+
+    print("========== SERPAPI RESPONSE ==========")
+    print(results)
+    print("======================================")
+
     jobs = []
 
 

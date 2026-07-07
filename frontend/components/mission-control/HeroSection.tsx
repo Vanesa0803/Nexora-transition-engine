@@ -19,7 +19,7 @@ export default function HeroSection() {
           </h1>
 
           <p className="mt-6 max-w-xl text-lg text-slate-400 leading-8">
-            Nexora's AI agents are coordinating your relocation,
+            TRANSIFY's AI agents are coordinating your relocation,
             searching jobs, comparing homes,
             planning finances and preparing your complete transition.
           </p>
@@ -30,7 +30,7 @@ export default function HeroSection() {
               View AI Report
             </button>
 
-            <button className="rounded-2xl border border-slate-600 px-8 py-4 text-white hover:border-cyan-400">
+            <button className="rounded-[32px] border border-slate-600 px-8 py-4 text-white hover:border-cyan-400">
               Live Tracking
             </button>
 
@@ -65,7 +65,7 @@ export default function HeroSection() {
       </div>
     </div>
 
-    <div className="rounded-2xl bg-[#101B2D] p-5">
+    <div className="rounded-[32px] bg-[#101B2D] p-5">
 
       <p className="text-xs uppercase tracking-widest text-slate-500">
         Current Route

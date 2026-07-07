@@ -1,6 +1,14 @@
-export default function BudgetWidget() {
+type Props = {
+  budget: any;
+};
+
+export default function BudgetWidget({ budget }: Props) {
+  if (!budget) {
+    return null;
+  }
+
   return (
-    <div className="rounded-3xl border border-white/10 bg-[#111827] p-6">
+    <div className="rounded-3xl border border-white/10 bg-gradient-to-br from-bg-white/5 backdrop-blur-xl to-[#0F172A] p-6 shadow-xl transition-all duration-300 hover:-translate-y-1 hover:border-cyan-400/30 hover:shadow-cyan-500/10">
 
       <div className="flex items-center justify-between">
 
@@ -15,7 +23,7 @@ export default function BudgetWidget() {
         </div>
 
         <div className="rounded-2xl bg-green-500/20 px-4 py-2 text-green-400 font-bold">
-          Healthy
+          {budget.risk}
         </div>
 
       </div>
@@ -23,59 +31,39 @@ export default function BudgetWidget() {
       <div className="mt-8 space-y-6">
 
         <div>
-
           <div className="flex justify-between mb-2">
-            <span className="text-zinc-400">Monthly Budget</span>
-            <span className="font-bold text-white">₹75,000</span>
-          </div>
+            <span className="text-zinc-400">
+              Monthly Income
+            </span>
 
-          <div className="h-3 rounded-full bg-zinc-700">
-
-            <div
-              className="h-3 rounded-full bg-gradient-to-r from-green-400 to-cyan-400"
-              style={{ width: "82%" }}
-            />
-
-          </div>
-
-        </div>
-
-        <div>
-
-          <div className="flex justify-between mb-2">
-            <span className="text-zinc-400">Expected Expenses</span>
-            <span className="font-bold text-white">₹61,500</span>
-          </div>
-
-          <div className="h-3 rounded-full bg-zinc-700">
-
-            <div
-              className="h-3 rounded-full bg-gradient-to-r from-orange-400 to-yellow-400"
-              style={{ width: "70%" }}
-            />
-
-          </div>
-
-        </div>
-
-        <div>
-
-          <div className="flex justify-between mb-2">
-            <span className="text-zinc-400">Savings Potential</span>
-            <span className="font-bold text-cyan-400">
-              ₹13,500
+            <span className="font-bold text-white">
+              ₹{budget.monthlyIncome}
             </span>
           </div>
+        </div>
 
-          <div className="h-3 rounded-full bg-zinc-700">
+        <div>
+          <div className="flex justify-between mb-2">
+            <span className="text-zinc-400">
+              Estimated Expenses
+            </span>
 
-            <div
-              className="h-3 rounded-full bg-gradient-to-r from-cyan-400 to-blue-500"
-              style={{ width: "30%" }}
-            />
-
+            <span className="font-bold text-white">
+              ₹{budget.estimatedExpenses}
+            </span>
           </div>
+        </div>
 
+        <div>
+          <div className="flex justify-between mb-2">
+            <span className="text-zinc-400">
+              Remaining Budget
+            </span>
+
+            <span className="font-bold text-cyan-400">
+              ₹{budget.remainingBudget}
+            </span>
+          </div>
         </div>
 
       </div>

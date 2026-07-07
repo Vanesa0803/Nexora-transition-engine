@@ -6,10 +6,13 @@ type StepOneProps = {
   data: {
     occupation: string;
     monthlyIncome: string;
+    educationRequirement: string;
     familyMembers: string;
   };
+
   updateData: (field: string, value: string) => void;
 };
+ 
 
 export default function StepOne({
   data,
@@ -17,58 +20,47 @@ export default function StepOne({
 }: StepOneProps) {
   return (
     <div className="space-y-8">
-
       <SectionTitle
         title="👤 Personal Profile"
         subtitle="Let's begin by understanding your current situation before our AI agents build your transition strategy."
       />
 
-      <div className="grid gap-6">
-
-        <FormCard>
-
-          <div className="mb-6 flex items-center gap-4">
-
-            <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-blue-600/20 text-3xl">
-              💼
-            </div>
-
-            <div>
-              <h2 className="text-xl font-bold text-white">
-                Professional Details
-              </h2>
-
-              <p className="text-zinc-400">
-                Your occupation helps NEXORA recommend the most relevant jobs.
-              </p>
-            </div>
-
+      <FormCard>
+        <div className="mb-6 flex items-center gap-4">
+          <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-blue-600/20 text-3xl">
+            💼
           </div>
 
-          <div className="space-y-6">
+          <div>
+            <h2 className="text-xl font-bold text-white">
+              Professional Details
+            </h2>
 
-            <InputField
-              label="Occupation"
-              placeholder="Teacher, Electrician, Driver..."
-              value={data.occupation}
-              onChange={(value) =>
-                updateData("occupation", value)
-              }
-            />
+            <p className="text-zinc-400">
+              Your occupation helps TRANSIFY recommend the best jobs.
+            </p>
+          </div>
+        </div>
 
-            <InputField
-              label="Monthly Income"
-              placeholder="₹25,000"
-              type="number"
-              value={data.income}
-              onChange={(value) =>
-                updateData("monthlyIncome", value)
-              }
-            />
+        <div className="space-y-6">
+          <InputField
+            label="Occupation"
+            placeholder="Software Engineer"
+            value={data.occupation}
+            onChange={(value) => updateData("occupation", value)}
+          />
 
-            <InputField
-  label="Number of Family Members"
-  placeholder="2"
+          <InputField
+            label="Monthly Income"
+            placeholder="50000"
+            type="number"
+            value={data.monthlyIncome}
+            onChange={(value) => updateData("monthlyIncome", value)}
+          />
+
+          <InputField
+  label="Family Members"
+  placeholder="4"
   type="number"
   value={data.familyMembers}
   onChange={(value) =>
@@ -76,38 +68,26 @@ export default function StepOne({
   }
 />
 
-          </div>
-
-        </FormCard>
-
-      </div>
-
-      <div className="rounded-2xl border border-blue-500/20 bg-blue-500/10 p-5">
-
-        <div className="flex gap-4">
-
-          <div className="text-3xl">
-            🤖
-          </div>
-
           <div>
+  <label className="mb-2 block text-sm font-medium text-white">
+    Education Requirement
+  </label>
 
-            <h3 className="font-semibold text-blue-300">
-              AI Insight
-            </h3>
-
-            <p className="mt-2 text-zinc-300">
-              Your profession and income help our Job Agent,
-              Budget Agent and Housing Agent work together to
-              build recommendations tailored specifically to you.
-            </p>
-
-          </div>
-
+  <select
+    value={data.educationRequirement}
+    onChange={(e) =>
+      updateData("educationRequirement", e.target.value)
+    }
+    className="w-full rounded-xl border border-zinc-700 bg-zinc-900 p-3 text-white"
+  >
+    <option>None</option>
+    <option>School</option>
+    <option>College</option>
+    <option>Both</option>
+  </select>
+</div>
         </div>
-
-      </div>
-
+      </FormCard>
     </div>
   );
 }

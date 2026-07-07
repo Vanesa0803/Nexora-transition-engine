@@ -1,6 +1,7 @@
 "use client";
 
 import { useRouter } from "next/navigation";
+import GoogleLogin from "@/components/GoogleLogin";
 
 export default function Hero() {
   const router = useRouter();
@@ -15,7 +16,7 @@ export default function Hero() {
       <nav className="relative z-20 flex items-center justify-between px-10 py-8">
 
         <h1 className="text-3xl font-black tracking-tight">
-          <span className="text-blue-500">NEX</span>ORA
+          <span className="text-blue-500">TRANS</span>IFY
         </h1>
 
         <div className="rounded-full border border-zinc-700 bg-zinc-900 px-5 py-2 text-sm text-zinc-300">
@@ -53,25 +54,22 @@ export default function Hero() {
   <br />
   <br />
 
-  NEXORA brings together five plus specialized AI agents to create one personalized transition plan covering jobs, housing, healthcare, budgeting, education, and government support.
+  TRANSIFY brings together five plus specialized AI agents to create one personalized transition plan covering jobs, housing, healthcare, budgeting, education, and government support.
 
 </p>
-        <div className="mt-12 flex gap-5">
+        <div className="mt-12 flex gap-5 items-center">
 
-          <button
-            onClick={() => router.push("/auth")}
-            className="rounded-xl bg-gradient-to-r from-blue-600 to-cyan-500 px-8 py-4 text-lg font-semibold shadow-xl transition hover:scale-105"
-          >
-            🚀 Start My Transition
-          </button>
+  <div className="scale-110">
+    <GoogleLogin />
+  </div>
 
-          <button
-            className="rounded-xl border border-zinc-700 bg-zinc-900 px-8 py-4 text-lg transition hover:bg-zinc-800"
-          >
-            Learn More
-          </button>
+  <button
+    className="rounded-xl border border-zinc-700 bg-zinc-900 px-8 py-4 text-lg transition hover:bg-zinc-800"
+  >
+    Learn More
+  </button>
 
-        </div>
+</div>
 
         {/* Stats */}
 

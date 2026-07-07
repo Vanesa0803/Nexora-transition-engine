@@ -82,7 +82,7 @@ export default function LoadingPage() {
         <div className="mb-10">
 
           <p className="uppercase tracking-[0.4em] text-cyan-400 text-sm">
-            NEXORA test 123
+            TRANSIFY..
           </p>
 
           <h1 className="mt-3 text-5xl font-bold">

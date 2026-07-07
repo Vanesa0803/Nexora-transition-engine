@@ -26,6 +26,10 @@ def get_housing(city: str):
 @router.post("/plan")
 def create_plan(request: TransitionRequest):
 
+    print("===== REQUEST RECEIVED =====")
+    print(request.model_dump())
+    print("============================")
+
     # Run independent agents in parallel
     with ThreadPoolExecutor(max_workers=7) as executor:
 
@@ -43,6 +47,9 @@ def create_plan(request: TransitionRequest):
         schemes = schemes_future.result()
         healthcare = healthcare_future.result()
         education = education_future.result()
+        print("========== EDUCATION ==========")
+        print(education)
+        print("===============================")
         cost_of_living = cost_future.result()
 
     # Planning Agent now works using collected data

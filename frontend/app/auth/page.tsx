@@ -36,7 +36,7 @@ export default function AuthPage() {
         <p className="mt-3 text-zinc-400">
           {isLogin
             ? "Continue your next life transition."
-            : "Start your journey with NEXORA."}
+            : "Start your journey with TRANSIFY."}
         </p>
 
         <div className="mt-8 space-y-5">

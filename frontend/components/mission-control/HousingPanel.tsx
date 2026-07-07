@@ -12,7 +12,7 @@ type HousingPanelProps = {
 
 export default function HousingPanel({ houses = [] }: HousingPanelProps) {
   return (
-    <div className="rounded-3xl border border-white/10 bg-[#111827] p-6">
+    <div className="rounded-3xl border border-white/10 bg-gradient-to-br from-bg-white/5 backdrop-blur-xl to-[#0F172A] p-6 shadow-xl transition-all duration-300 hover:-translate-y-1 hover:border-cyan-400/30 hover:shadow-cyan-500/10">
       <div className="flex items-center justify-between">
         <div>
           <h2 className="text-2xl font-bold text-white">
@@ -29,7 +29,7 @@ export default function HousingPanel({ houses = [] }: HousingPanelProps) {
         </span>
       </div>
 
-      <div className="mt-6 space-y-4">
+      <div className="mt-6 grid gap-4">
         {houses.length === 0 ? (
           <div className="rounded-2xl border border-white/10 p-6 text-center text-zinc-400">
             No houses found.

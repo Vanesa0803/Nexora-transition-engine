@@ -27,7 +27,7 @@ export default function ProgressBar({
         </h1>
 
         <p className="mt-3 max-w-xl text-zinc-400">
-          Tell NEXORA about your relocation. Our AI agents
+          Tell TRANSIFY about your relocation. Our AI agents
           will collaborate to create one personalized
           transition strategy.
         </p>

@@ -1,4 +1,5 @@
-const API = "http://127.0.0.1:8000";
+const API =
+"https://transify-transition-engine.onrender.com";
 
 export async function getJobs(query: string, location: string) {
   const res = await fetch(

@@ -29,7 +29,7 @@ export default function DashboardPage() {
   setTransition(data);
 
   fetch(
-    `http://127.0.0.1:8000/jobs?query=${encodeURIComponent(
+    `https://transify-transition-engine.onrender.com/plan/jobs?query=${encodeURIComponent(
       data.occupation
     )}&location=${encodeURIComponent(
       data.destinationCity

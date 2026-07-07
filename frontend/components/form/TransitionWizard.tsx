@@ -60,13 +60,14 @@ export default function TransitionWizard() {
     console.log(payload);
 
     try {
-      const response = await fetch("http://127.0.0.1:8000/plan", {
+      const response = await fetch("https://transify-transition-engine.onrender.com/plan", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
         },
         body: JSON.stringify(payload),
       });
+      
 
       if (!response.ok) {
         const error = await response.text();

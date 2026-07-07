@@ -1,73 +1,91 @@
-type EducationPanelProps = {
-  education?: {
-    required?: boolean;
-    type?: string;
-    recommended?: string[];
-    message?: string;
-  };
-};
+from schemas.transition import TransitionRequest
 
-export default function EducationPanel({
-  education,
-}: EducationPanelProps) {
 
-  const schools =
-    education?.recommended && education.recommended.length > 0
-      ? education.recommended
-      : [
-          "Delhi Public School",
-          "National Public School",
-          "Orchids International School",
-        ];
+def run_education_agent(data: TransitionRequest):
 
-  return (
-    <div className="rounded-3xl border border-white/10 bg-gradient-to-br from-[#0F172A] to-[#111827] p-6">
+    if data.educationRequirement == "None":
+        return {
+            "required": False,
+            "message": "No education assistance required."
+        }
 
-      <div className="flex items-center justify-between">
+    if data.educationRequirement == "School":
+        schools = {
+            "Bengaluru": [
+                "Delhi Public School, Whitefield",
+                "National Public School",
+                "Orchids International School"
+            ],
+            "Hyderabad": [
+                "Chirec International School",
+                "Oakridge International School",
+                "Delhi Public School Hyderabad"
+            ],
+            "Delhi": [
+                "Modern School",
+                "Delhi Public School RK Puram",
+                "Bal Bharati Public School"
+            ],
+            "Mumbai": [
+                "Dhirubhai Ambani International School",
+                "Bombay Scottish School",
+                "Podar International School"
+            ]
+        }
 
-        <div>
-          <h2 className="text-2xl font-bold text-white">
-            🎓 Education Agent
-          </h2>
+        return {
+            "required": True,
+            "type": "School",
+            "recommended": schools.get(
+                data.destinationCity,
+                ["Search nearby CBSE schools"]
+            )
+        }
 
-          <p className="text-zinc-400">
-            School & College Recommendations
-          </p>
-        </div>
+    elif data.educationRequirement == "College":
+        colleges = {
+            "Bengaluru": [
+                "Christ University",
+                "RV College of Engineering",
+                "PES University"
+            ],
+            "Hyderabad": [
+                "IIIT Hyderabad",
+                "Osmania University",
+                "JNTU Hyderabad"
+            ],
+            "Delhi": [
+                "Delhi University",
+                "NSUT",
+                "IIIT Delhi"
+            ],
+            "Mumbai": [
+                "IIT Bombay",
+                "NMIMS",
+                "Mumbai University"
+            ]
+        }
 
-        <span className="rounded-full bg-blue-500/20 px-4 py-2 text-blue-400">
-          ACTIVE
-        </span>
+        return {
+            "required": True,
+            "type": "College",
+            "recommended": colleges.get(
+                data.destinationCity,
+                ["Search nearby colleges"]
+            )
+        }
 
-      </div>
+    elif data.educationRequirement == "Both":
+        return {
+            "required": True,
+            "type": "School & College",
+            "recommended": [
+                "Top nearby schools",
+                "Top nearby colleges"
+            ]
+        }
 
-      <div className="mt-6">
-
-        <div className="rounded-xl bg-blue-500/10 p-4">
-          <p className="text-zinc-400 text-sm">
-            Education Required
-          </p>
-
-          <h3 className="text-xl font-bold">
-            {education?.type ?? "School"}
-          </h3>
-        </div>
-
-        <div className="mt-5 space-y-4">
-
-          {schools.map((school, index) => (
-            <div
-              key={index}
-              className="rounded-xl bg-[#182233] p-4 hover:bg-[#22324a]"
-            >
-              🏫 {school}
-            </div>
-          ))}
-
-        </div>
-
-      </div>
-
-    </div>
-  );
-}
+    return {
+        "required": False,
+        "message": "No education assistance required."
+    }

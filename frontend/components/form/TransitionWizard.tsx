@@ -60,7 +60,7 @@ export default function TransitionWizard() {
     console.log(payload);
 
     try {
-      const response = await fetch("https://transify-transition-engine.onrender.com/plan", {
+      const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/plan`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
